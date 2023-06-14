@@ -1,0 +1,15 @@
+izquierdon
+abajon
+abajon
+abajon
+abajon
+retirar-producto sello 40
+derechon
+abajon
+retirar-producto chocolate 15
+derechon
+derechon
+agregar-producto ciruela 25
+derechon
+agregar-producto mante 10
+final

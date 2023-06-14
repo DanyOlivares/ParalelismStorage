@@ -1,0 +1,7 @@
+retirar-producto caja 8
+derechon
+izquierdon
+abajon
+agregar-producto control 11
+arriban
+final

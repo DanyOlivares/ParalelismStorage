@@ -1,0 +1,16 @@
+retirar-producto pantallas 40
+derechon
+izquierdon
+abajon
+abajon
+abajon
+abajon
+abajon
+agregar-producto pantallas 40
+retirar-producto cuchara 15
+derechon
+derechon
+agregar-producto cortina 25
+derechon
+agregar-producto taza 10
+final

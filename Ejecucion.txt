@@ -1,0 +1,849 @@
+INSTRUCCION:  retirar-producto 8
+INSTRUCCION: INSTRUCCION:  INSTRUCCION:   retirar-producto caja 8INSTRUCCION: retirar-producto 8
+INSTRUCCION: INSTRUCCION:   INSTRUCCION: retirar-producto 8
+retirar-producto 8INSTRUCCION: INSTRUCCION:   INSTRUCCION: retirar-producto 8
+ INSTRUCCION:  INSTRUCCION: retirar-producto 8 
+INSTRUCCION:  retirar-producto 8
+INSTRUCCION:  INSTRUCCION:  INSTRUCCION: retirar-producto cortina 8767 
+INSTRUCCION:  INSTRUCCION:  retirar-producto 8
+INSTRUCCION: INSTRUCCION:   INSTRUCCION:  izquierdonretirar-producto 8
+retirar-producto 8INSTRUCCION:  INSTRUCCION:  INSTRUCCION:  retirar-producto 8retirar-producto 8
+
+INSTRUCCION:  INSTRUCCION:  INSTRUCCION: retirar-producto 8 
+INSTRUCCION:  INSTRUCCION:  retirar-producto 8
+retirar-producto 8
+INSTRUCCION:  retirar-producto 8
+retirar-producto 8
+retirar-producto pantallas 40
+
+
+retirar-producto 8
+retirar-producto 8
+retirar-producto 8
+retirar-producto 8
+retirar-producto 8
+retirar-producto 8
+ 
+
+ retirar-producto 8
+retirar-producto 8
+retirar-producto 8
+INSTRUCCION: retirar-producto 8 
+retirar-producto 8
+Movimiento invalido
+INSTRUCCION:  abajon
+Abajo
+Abajo
+Abajo
+(2 control 396 22)
+Abajo
+(1 mora 15 15)
+INSTRUCCION:  abajon
+(1 pantallas 160 19)
+Llegaste!
+(2 almohada 10 20)
+Abajo
+(1 agua 14 14)
+INSTRUCCION:  abajon
+(3 cortina 19851074 21)
+Llegaste!
+(1 bocina 0 1)
+INSTRUCCION:  derechon
+(1 espejo 0 1)
+INSTRUCCION:  derechon
+(1 berenjena 0 1)
+INSTRUCCION:  derechon
+(1 secadora 0 1)
+INSTRUCCION:  derechon
+(1 tapadera 0 1)
+INSTRUCCION:  derechon
+(1 peluche 0 1)
+INSTRUCCION:  derechon
+(1 berenjena 0 1)
+INSTRUCCION:  derechon
+(4 pastel 0 88)
+INSTRUCCION:  derechon
+(1 granada 0 1)
+INSTRUCCION:  derechon
+(1 piña 0 1)
+INSTRUCCION:  derechon
+(1 aceituna 0 1)
+INSTRUCCION:  derechon
+(2 cartera 9 18)
+Abajo
+(1 fuego 0 1)
+INSTRUCCION:  derechon
+(1 manzana 0 1)
+INSTRUCCION:  derechon
+(1 lenteja 0 1)
+INSTRUCCION:  derechon
+(1 naranja 0 1)
+INSTRUCCION:  derechon
+(1 gancho 0 1)
+INSTRUCCION:  derechon
+(1 banco 0 1)
+INSTRUCCION:  derechon
+(1 caramelo 0 1)
+INSTRUCCION:  derechon
+(1 albaricoque 0 1)
+INSTRUCCION:  derechon
+(1 espejo 0 1)
+INSTRUCCION:  derechon
+(3 cortina 19842307 21)
+INSTRUCCION:  derechon
+(1 ordenador 0 1)
+INSTRUCCION:  derechon
+(1 pantallas 120 19)
+INSTRUCCION:  derechon
+(1 naranja 0 1)
+INSTRUCCION:  derechon
+(1 chocolate 0 1)
+INSTRUCCION:  derechon
+(1 brocoli 0 1)
+INSTRUCCION:  derechon
+(2 pimienta 1 2)
+(1 cortina 0 1)
+INSTRUCCION:  derechon
+(1 berenjena 13 13)
+INSTRUCCION:  abajon
+(1 sillon 0 1)
+INSTRUCCION:  derechon
+(1 paracaidas 0 1)
+INSTRUCCION:  derechon
+(2 amigo 1 2)
+(2 tornillo 1 2)
+(2 bicicleta 8 16)
+(2 libreta 1 2)(
+2 portatil 1 2)
+(1 tarta 0 1)
+INSTRUCCION:  derechon
+(2 cereza 1 2)
+(2 calabaza 1 2)
+(2 acelga 1 2)
+INSTRUCCION:  izquierdon
+(2 cerca 1 2)
+(2 camara 1 2)
+INSTRUCCION:  izquierdon
+(2 candado 1 2)
+(2 naranja 1 2)
+INSTRUCCION:  izquierdon
+(2 (limon 12  2)tostadora 1 
+2)
+(2 sal 1 2)
+INSTRUCCION:  izquierdon
+(4 gorra 7 28)
+(3 caja 0 24)
+(2 balon 1 2)
+INSTRUCCION:  izquierdon
+(1 zanahoria 12 12)
+INSTRUCCION:  retirar-producto sello 40
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+(1 peluche 0 1)
+INSTRUCCION:  izquierdon
+(2 melon 1 2)
+Abajo
+(1 espejo 0 1)
+derecha
+Llegaste!
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+(2 aire 1 2)
+INSTRUCCION:  abajon
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+(1 piña 0 1)
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+INSTRUCCION:  abajon
+(1 tapadera 0 1)
+INSTRUCCION:  izquierdon
+INSTRUCCION:  abajon
+(1 berenjena 0 1)
+(1 cortina 0 1)
+(1 secadora 0 1)
+(1 berenjena 0 1)
+(1 granada 0 1)
+(2 pera 1 2)
+(1 rabanito 11 11)
+(3 cortina 19842307 21)
+(3 caja 0 24)
+INSTRUCCION:  derechon
+INSTRUCCION:  izquierdon
+(1 aceituna 0 1)
+(1 banco 0 1)
+INSTRUCCION:  abajon
+INSTRUCCION:  abajon
+INSTRUCCION:  abajon
+INSTRUCCION:  abajon
+(1 alfombra 275 22)
+INSTRUCCION:  agregar-producto 11
+(2 cuchara 11 22)
+(1 paracaidas 0 1)
+(1 placard 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 sillon 0 1)
+(5 ciruela 14 110)
+(4 taza 8 32)
+(1 espejo 0 1)
+INSTRUCCION:  abajon
+INSTRUCCION:  abajon
+INSTRUCCION:  abajon
+INSTRUCCION:  abajon
+(1 frambuesa 275 22)
+INSTRUCCION:  agregar-producto 11
+INSTRUCCION:  izquierdon
+(2 champinon 1 2)
+(2 tableta 19 38)
+INSTRUCCION:  abajon
+INSTRUCCION:  abajon
+(2 champinon 1 2)
+(1 refresco 5333440 22)
+INSTRUCCION:  agregar-producto 222222
+INSTRUCCION:  abajon
+(1 bocina 0 1)
+(2 mesita 1 2)
+(3 zanahoria 6 18)
+INSTRUCCION:  agregar-producto cortina 1
+INSTRUCCION:  abajon
+(2 rebanadora 1 2)
+(1 toallitas 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 labial 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 refresco 275 22)
+INSTRUCCION:  agregar-producto 11
+INSTRUCCION:  izquierdon
+Arriba
+(1 manzana 0 1)
+derecha
+(1 sandia 275 22)
+INSTRUCCION:  agregar-producto 11
+INSTRUCCION:  abajon
+(2 camara 1 2)
+(1 plancha 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 refresco 5555662 22)
+INSTRUCCION:  arriban
+(2 tenedor 1 2)
+(1 alfombra 286 22)
+INSTRUCCION:  arriban
+INSTRUCCION:  izquierdon
+(3 caja 0 24)
+(1 mantequilla 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 exprimidor 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 sal 275 22)
+(1 berenjena 0 1)
+INSTRUCCION:  final
+INSTRUCCION:  agregar-producto 11
+Articulos menores:  ((1 berenjena 0 1) (2 pimienta 1 2) (3 secadora 1 3) (4 cereal 1 4) (5 labial 1 5) (1 colchon 2 2) (2 granada 2 4) (3 guisante 2 6) (4 calabacin 2 8) (5 alto 2 10) (1 muneca 3 3) (2 rabanito 3 6) (3 tijera 3 9) (4 botella 3 12) (5 chocolate 3 15) (1 pimienton 4 4) (2 cortinas 4 8) (3 tortuga 4 12) (4 bolso 4 16) (5 uva 4 20) (1 palillos 5 5) (2 sandia 5 10) (3 globo 5 15) (4 patata 5 20) (5 leche 5 25) (1 ventilador 6 6) (2 ancho 6 12) (3 plancha 6 18) (4 flor 6 24) (5 control 6 30) (1 sillon 7 7) (2 ardilla 7 14) (3 duro 7 21) (4 lavadora 7 28) (5 bocina 7 35) (1 peluche 8 8) (2 calendario 8 16) (3 ensaladera 8 24) (4 pasta 8 32) (5 champu 8 40) (1 manicura 9 9) (2 vino 9 18) (3 aparato 9 27) (4 pomada 9 36) (5 secadora 9 45))
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+(1 pantallas 120 19)
+Valor total del carrusel 122281004
+(1 bajo 275 22)
+(2 portatil 1 2)
+INSTRUCCION:  agregar-producto 11
+(1 lenteja 0 1)
+INSTRUCCION:  izquierdon
+(3 cortina 19842307 21)
+Llegaste!
+(2 marioneta 1 2)
+INSTRUCCION:  izquierdon
+(1 sandia 286 22)
+INSTRUCCION:  arriban
+(1 placard 286 22)
+INSTRUCCION:  arriban
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+INSTRUCCION:  abajon
+INSTRUCCION:  izquierdon
+(4 pastel 0 88)
+INSTRUCCION:  izquierdon
+(1 refresco 286 22)
+INSTRUCCION:  arriban
+INSTRUCCION:  abajon
+(1 frambuesa 286 22)
+INSTRUCCION:  arriban
+INSTRUCCION:  abajon
+(1 fuego 0 1)
+(1 peluche 0 1)
+INSTRUCCION:  final
+(1 cereza 275 22)
+(3 amigo 11 33)
+INSTRUCCION:  agregar-producto 11
+(1 naranja 0 1)
+(1 toallitas 286 22)
+INSTRUCCION:  arriban
+Articulos menores:  ((1 peluche 0 1) (2 portatil 1 2) (3 natillas 1 3) (4 banco 1 4) (5 peine 1 5) (1 pastel 2 2) (2 blanco 2 4) (3 acelga 2 6) (4 aceituna 2 8) (5 pestaña 2 10) (1 portatil 3 3) (2 sillon 3 6) (3 candelabro 3 9) (4 judia 3 12) (5 lima 3 15) (1 herramientas 4 4) (2 albaricoque 4 8) (3 piano 4 12) (4 leche 4 16) (5 hongo 4 20) (1 cartas 5 5) (2 calabacin 5 10) (3 madera 5 15) (4 candado 5 20) (5 tierra 5 25) (1 pepino 6 6) (2 hilo 6 12) (3 juego 6 18) (4 cuchara 6 24) (5 bocina 6 30) (1 pinceles 7 7) (2 sofa 7 14) (3 pepino 7 21) (4 gorra 7 28) (5 dulce 7 35) (1 pinceles 8 8) (2 amigo 8 16) (3 nino 8 24) (4 fuego 8 32) (5 mango 8 40) (1 sandia 9 9) (2 tableta 9 18) (3 casco 9 27) (4 cebolla 9 36) (5 amigo 9 45))
+(1 chocolate 0 1)
+(1 ordenador 0 1)
+INSTRUCCION:  abajon
+INSTRUCCION:  abajon
+(1(INSTRUCCION:   secadora3  0abajoncable  
+7 21)1)
+
+INSTRUCCION:  agregar-producto control 11
+INSTRUCCION:  final
+(1 mantequilla 286 22)
+INSTRUCCION:  arriban
+Valor total del carrusel 73292
+(1 sal 286 22)
+INSTRUCCION:  arriban
+(1 berenjena 0 1)
+INSTRUCCION:  final
+INSTRUCCION:  abajon
+(1 plancha 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 plancha 286 22)
+INSTRUCCION:  arriban
+Arriba
+Articulos menores:  ((1 berenjena 0 1) (2 libreta 1 2) (3 abrelatas 1 3) (4 exprimidor 1 4) (5 platano 1 5) (1 herramientas 2 2) (2 copa 2 4) (3 mujer 2 6) (4 tableta 2 8) (5 cortina 2 10) (1 foto 3 3) (2 papaya 3 6) (3 nevera 3 9) (4 ardilla 3 12) (5 servilleta 3 15) (1 caramelo 4 4) (2 espejo 4 8) (3 cepo 4 12) (4 candado 4 16) (5 monedero 4 20) (1 melon 5 5) (2 piña 5 10) (3 pera 5 15) (4 marcapaginas 5 20) (5 marcapaginas 5 25) (1 pan 6 6) (2 fresa 6 12) (3 natillas 6 18) (4 crema 6 24) (5 audifonos 6 30) (1 mango 7 7) (2 guisante 7 14) (3 espejo 7 21) (4 abrelatas 7 28) (5 berenjena 0 35) (1 gancho 8 8) (2 nieve 8 16) (3 pimienton 8 24) (4 amigo 8 32) (5 cremallera 8 40) (1 almohada 9 9) (2 aceituna 9 18) (3 reloj 9 27) (4 llave 9 36) (5 tierra 9 45))
+(1 espejo 0 1)
+INSTRUCCION:  final
+Valor total del carrusel 81231
+(1 gancho 0 1)
+Articulos menores:  ((1 espejo 0 1) (2 cerca 1 2) (3 dinosaurio 1 3) (4 tomate 1 4) (5 alto 1 5) (1 tarta 2 2) (2 cereza 2 4) (3 colchon 2 6) (4 coliflor 2 8) (5 semaforo 2 10) (1 botella 3 3) (2 aparato 3 6) (3 servilleta 3 9) (4 cebolla 3 12) (5 tarta 3 15) (1 cuchara 4 4) (2 huevo 4 8) (3 florero 4 12) (4 melon 4 16) (5 chicle 4 20) (1 brocoli 5 5) (2 fuente 5 10) (3 ciudad 5 15) (4 granada 5 20) (5 calendario 5 25) (1 pajaro 6 6) (2 cuchillo 6 12) (3 gancho 6 18) (4 cigarrillo 6 24) (5 camion 6 30) (1 batidora 7 7) (2 manzana 7 14) (3 piña 7 21) (4 calabacin 7 28) (5 vino 7 35) (1 arroz 8 8) (2 tortuga 8 16) (3 tetera 8 24) (4 audifonos 8 32) (5 vaca 8 40) (1 semilla 9 9) (2 mango 9 18) (3 marcapaginas 9 27) (4 mango 9 36) (5 grande 9 45))
+INSTRUCCION:  abajon
+(1 albaricoque 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 flamenco 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 bajo 286 22)
+INSTRUCCION:  arriban
+Valor total del carrusel 62732
+(1 tapadera 0 1)
+INSTRUCCION:  final
+(3 cortina 19842308 21)
+INSTRUCCION:  arriban
+(1 albaricoque 0 1)
+derecha
+(1 azucar 18 18)
+INSTRUCCION:  abajon
+(1 espejo 0 1)
+INSTRUCCION:  final
+(1 semaforo 275 22)
+INSTRUCCION:  agregar-producto 11
+Articulos menores:  ((1 espejo 0 1) (2 acelga 1 2) (3 placard 1 (3)1 piña 0 1 )
+(4 esponja 1 4) (5 lechuga 1 5) (1INSTRUCCION:  achicoria  2 2) (2 finalservilleta 
+2 4) (3 cafetera 2 6) (4 gorra 2 8) (5 ardilla 2 10) (1 faro 3 3) (2 cuna 3 6) (3 cucharilla 3 9) (4 (1 plancha 286 22)
+INSTRUCCION:  arriban
+(1 exprimidor 286 22)
+INSTRUCCION:  arriban
+INSTRUCCION:  abajon
+(1 sillon 0 1)
+INSTRUCCION:  final
+Articulos menores:  ((1 (sillon1  0 1)frambuesa  275 22)(2 
+camara 1 2) (3 cuna 1 3) (4 pared 1 4) INSTRUCCION:  (5 agregar-producto 11queso 
+1 5) (1 taza 2 2) (2 calendario 2 4) (3 pepino 2 6) (4 plato 2 8) (5 chimenea 2 10) (1 pistola 3 3) (2 melon 3 6) (3 calculadora 3 9) (4 natillas 3 12) (5 tierra 3 15) (1 azucar 4 4) (2 mapa 4 8) (3 calentador 4 12) (4 mora 4 16) (5 destornillador 4 20) (1 granada 5 5) (2 leche 5 10) (3 cepillo 5 15) (4 florero 5 20) (5 pinceles 5 25) (1 copa 6 6) (2 crema 6 12) (3 helado 6 18) (4 garbanzo 6 24) (5 muneca 6 30) (1 brocoli 7 7) (2 candado 7 14) (3 auriculares 7 21) (4 piedra 7 28) (5 panuelo 7 35) (1 tableta 8 8) (2 frambuesa 8 16) (3 almohada 8 24) (4 licuadora 8 32) (5 auriculares 8 40) (1 pajaro 9 9) (2 cebada 9 18) (3 ciruela 9 27) (4 gorro 9 36) (5 calabaza 9 45))
+Articulos menores:  ((1 piña 0 1) (2 amigo 1 2) (3 cereza 1 3) (4 aparato 1 4) (5 reloj 1 5) (1 pimiento 2 2) (2 plato 2 4) (3 miel 2 6) (4 manzana 2 8) (5 llave 2 10) (1 yogur 3 3) (2 hoja 3 6) (3 hombre 3 9) (1 labial (286 221) 
+flamenco 286 22)
+(4 INSTRUCCION:  arriban
+INSTRUCCION:  arriban
+servilletamarcapaginas 3 12 ) 3 12) ((5 pared 3 15) (1 esponja 54  platos4 3 15) ) (2 escoba 4 8) (3 pepino 4 12) (4 caramelo 4 16) (5 suave 4 20) (1 azul 5 5)( 1( 2 candelabropimiento  5 4 10)4 ) (3 cebada 5 15) (2 bomba 4 (8) 4 lima 5 20) (3 puerta 4 (12) 5 portarretratos 5 25) (4 (1 cuchillo avena 46  166))  (2( 5botella  maquina6  412 ) 20) (3 cafetera 6 (18) 1 yogur 5 5()4  fresa 6 24)( 2 refresco 5 10)( 5 pepino 6 30() 3 castillo 5 15()1  tetera 7 7)( 4 cigarrillo 5 (20)2  maiz 7 14) (5 limon (5 3 25)refresco  7 21)( 1 pizza (4 6hombre  7 286))  (5 (pimienta 27  sandalias35 )6  12) (1( 3 nieve estrecho 86  818))  ((2 4 pintura cuchillo 86  1624))  ((3 5 estante puerta 86  2430))  ((41  bancohorno  8 7 32)7 ) ((5 2 mesita cucharilla 8 7 40)14 ) ((1 3 pequeno gancho 97 21)  (9)4  faro 7 28) (2 batidora (9 5 18)navaja  7 35) (3 (relieve 19  aceituna27 )8  8) (4 (plancha 29  cuchara 368)  16) ((53  bombapintura  9 45))8 24
+) (4 mango 8 32) (5 juguete 8 40) (1 cuchara 9 9) (2 dinosaurio 9 18) (3 carroza 9 27) (4 microfono 9 36) (5 cuentos 9 45))
+INSTRUCCION:  abajon
+Articulos menores:  ((1 secadora 0 1) (2 naranja 1 2) (3 bicicleta 1 3) (4 nuez 1 4) (5 pala 1 5) (1 tela 2 2) (2 botella 2 4) (3 rebanadora 2 6) (4 membrillo 2 8) (5 maquina 2 10) (1 pimienton 3 3) (2 vino 3 6) (3 suelo 3 9) (4 corbata 3 12) (5 coliflor 3 15) (1 espejo 4 4) (2 juego 4 8) (3 lata 4 12) (4 aparato 4 16) (5 microondas 4 20) (1 yogur 5 5) (2 aparato 5 10) (3 castillo 5 15) (4 silla 5 20) (5 hoja 5 25) (1 auriculares 6 6) (2 lata 6 12) (3 cartera 6 18) (4 aire 6 24) (5 vajilla 6 30) (1 auriculares 7 7) (2 relieve 7 14) (3 calabaza 7 21) (4 pala 7 28) (5 marcapaginas 7 35) (1 helado 8 8) (2 hongo 8 16) (3 alto 8 24) (4 kiwi 8 32) (5 pepino 8 40) (1 zanahoria 9 9) (2 caja 9 18) (3 soja 9 27) (4 lima 9 36) (5 parlante 9 45))
+(4 pimienta 11 44)
+Articulos menores:  ((1 tapadera 0 1) (2 tornillo 1 2) (3 chocolate 1 3) (4 placard 1 4) (5 cuchara 1 5) (1 aceituna 2 2) (2 ciruela 2 4) (3 secadora 2 6) (4 espinaca 2 8) (5 amarillo 2 10) (1 cereza 3 3) (2 frutero 3 6) (3 coliflor 3 9) (4 abrelatas 3 12) (5 champinon 3 15) (1 radiador 4 4) (2 paraguas 4 8) (3 ciudad 4 12) (4 corbata 4 16) (5 cereza 4 20) (1 sandia 5 5) (2 paracaidas 5 10) (3 estrecho 5 15) (4 tetera 5 20) (5 gorra 5 25) (1 pan 6 6) (2 trapeador 6 12) (3 refresco 6 18) (4 cortinas 6 24) (5 platano 6 30) (1 cebada 7 7) (2 hojaldre 7 14) (3 secadora 7 21) (4 almohada 7 28) (5 caja 7 35) (1 bicicleta 8 8) (2 pepino 8 16) (3 peluche 8 24) (4 cocina 8 32) (5 florero 8 40) (2 rompecabezas 9 18) (3 servilleta 9 27) (4 cafetera 9 36) (5 parlante 9 45) (5 tapadera 0 60))
+(1 albaricoque 286 22)
+(1 bocina 0 1)
+INSTRUCCION:  final
+(1 brocoli 0 1)
+Valor total del carrusel 62732
+(1 cortina 0 1)
+INSTRUCCION:  final
+(1 paracaidas 0 1)
+INSTRUCCION:  final
+INSTRUCCION: Valor total del carrusel 62732
+ arriban
+Valor total del carrusel 64388
+Valor total del carrusel 62732
+Articulos menores:  ((1 paracaidas 0 1) (2 calabaza 1 2) (3 faro 1 3) (4 pizza 1 4) (5 sarten 1 5) (1 coliflor 2 2) (2 galleta 2 4) (3 hilo 2 6) (4 higo 2 8) (5 tela 2 10) (1 techo 3 3) (2 champu 3 6) (3 manzana 3 9) (4 candado 3 12) (5 estufa 3 15) (1 mora 4 4) (2 cartera 4 8) (4 mango 4 16) (5 cebolla 4 20) (1 higo 5 5) (2 refrigerador 5 10) (3 batidora 5 15) (4 casco 5 20) (5 plato 5 25) (1 pequeno 6 6) (2 cereal 6 12) (3 alto 6 18) (4 gancho 6 24) (5 plancha 6 30) (1 piña 7 7) (2 pimienton 7 14) (3 papaya 7 21) (4 papaya 7 28) (5 flor 7 35) (1 cocina 8 8) (2 flamenco 8 16) (3 pasta 8 24) (4 parrilla 8 32) (5 aparato 8 40) (1 caramelo 9 9) (2 mujer 9 18) (3 espinaca 9 27) (4 esparrago 9 36) (5 pasta 9 45))
+Valor total del carrusel 62732
+Articulos menores:  ((1 Articulos menores: bocina  0 1) (2 cereza 1 2) (3 mora 1 3) ((4 lenteja( 1 1 4) cortina 0 1) (5 (auriculares 21  candado 5)1  2) (1 (florero 32  cereza2 )1  3) (2 bateria( 24  4)plato  1 4) (3 pepino 2 6()5  naranja 1 5)( 4 plato( 21  8)bajo  2 2) (5 (semilla 2 2 espejo10 )2  4) (1 cuchara (3 33 )espinaca  2 6) (2 hongo 3( 46 )escoba  2 8) (3 acelga 3( 59 )microfono  2 10) (4 control (31  12panuelo)  3 3) (5 aspiradora( 23  plato15 )3  6) (1 frutero (4 34 )abrelatas  3 9) (3 florero 4 (12) 4 cocina 3 12)( 4 bizcocho 4 16)( 5 maquina 3 15) (5 higo 4 (20)1  despertador 4 4)( 1 mueble 5 5) (2 kiwi (42  8)microfono  5 10) ((3 3 licuadora berenjena 4 5 1215))  ((44  relojmaquillaje  45  1620))  ((5 5 castillopistola  45  2025))  ((11  rojo batidora 5 6 56))  ((22  nieve espinaca 5 6 1012))  ((33  radiadorcolumpio  5 6 1518))  ((4 4dado  sandia5  6 20)24 ) ((5 5 naranjamora  56  2530))  ((1 2herramientas  huevo6  76 )14 ) (2( 3peine  calabacin6  712 )21 ) ((34  frambuesacallejon  67  1828))  ((45  rabanitobizcocho  67  24)35 ) ((5 1dado  madera6  8 308))  ((1 2 pasta calculadora 7 8 716))  ((23  radiadorpastel  7 8 1424))  ((34  tenedorcaramelo  78  21)32 ) ((4 5 lentejabateria  7 8 28)40 ) (5( 1esponja  huevo7  935 )9 ) ((1 2cortina  cebada0  98 )18 ) ((23  pastelsol  89  16)27 ) ((3 4 ventana manzana 89  2436))  ((45  refrescotortuga  89  32)45 ))
+(1 lenteja 0 1)
+INSTRUCCION:  final
+(5 ventilador 8 40) (1 corbata 9 9) (2 microfono 9 18) (3 esponja 9 27) (4 sarten 9 36) (5 laptop 9 45) (3 cortina 0 42))
+Valor total del carrusel 65900
+Valor total del carrusel 62080
+(1 tarta 0 1)
+(1 cereza 286 22)
+INSTRUCCION:  arriban
+(3 caja 0 24)
+Arriba
+Valor total del carrusel 128996
+Articulos menores:  ((1 lenteja 0 1) (2 balon 1 2) (3 ciruela 1 3) (4 verde 1 4) (5 microondas 1 5) (1 pila 2 2) (2 melon 2 4) (3 lima 2 6) (4 secadora 2 8) (5 piedra 2 10) (1 celular 3 3) (2 kiwi 3 6) (3 tapadera 3 9) (4 tostadora 3 12) (5 limon 3 15) (1 limon 4 4) (2 aspiradora 4 8) (3 pequeno 4 12) (4 mujer 4 16) (5 ensaladera 4 20) (1 isla 5 5) (2 chimenea 5 10) (3 kiwi 5 15) (4 achicoria 5 20) (5 taza 5 25) (1 sarten 6 6) (2 tomate 6 12) (3 crema 6 18) (4 plancha 6 24) (5 libreta 6 30) (1 tela 7 7) (2 cuchara 7 14) (3 mesita 7 21) (4 zanahoria 7 28) (5 silla 7 35) (1 apio 8 8) (2 arandano 8 16) (3 camiseta 8 24) (4 escoba 8 32) (5 pimiento 8 40) (1 lima 9 9) (2 agua 9 18) (3 cuchara 9 27) (4 esponja 9 36) (5 cafetera 9 45))
+(1 granada 0 1)
+INSTRUCCION:  final
+INSTRUCCION:  izquierdon
+(1 aceituna 0 1)
+INSTRUCCION:  final
+INSTRUCCION:  abajonValor total del carrusel 62732
+(1 manzana 0 1)
+INSTRUCCION:  final
+derecha
+(1 frambuesa 286 22)
+INSTRUCCION:  arriban
+Articulos menores:  ((1 manzana 0 1) (2 limon 1 2) (3 portarretratos 1 3) (4 uva 1 4) (5 pastel 1 5) (1 cafetera 2 2) (2 cuna 2 4) (3 fresa 2 6) (4 gancho 2 8) (5 abrelatas 2 10) (1 refresco 3 3) (2 chocolate 3 6) (3 bizcocho 3 9) (4 cinta 3 12) (5 abrelatas 3 15) (1 kiwi 4 4) (2 paracaidas 4 8) (3 cepo 4 12) (4 almohada 4 16) (5 candado 4 20) (1 leche 5 5) (2 gris 5 10) (3 sal 5 15) (4 arbol 5 20) (5 tarta 5 25) (1 almohadon 6 6) (2 blanco 6 12) (3 manicura 6 18) (4 uva 6 24) (5 lapiz 6 30) (1 ventana 7 7) (2 tapadera 7 14) (3 tarta 7 21) (4 batidora 7 28) (5 mora 7 35) (1 tierra 8 8) (2 gorro 8 16) (3 mantequilla 8 24) (4 silla 8 32) (5 pera 8 40) (1 uva 9 9) (2 melon 9 18) (3 mantel 9 27) (4 servilleta 9 36) (5 tornillo 9 45))
+Articulos menores:  ((1 granada 0 1) (2 tostadora 1 2) (3 pan 1 3) (4 leche 1 4) (5 luz 1 5) (1 parlante 2 2) (2 sal 2 4) (3 abrelatas 2 6) (4 alto 2 8) (5 mango 2 10) (1 sal 3 3) (2 hojaldre 3 6) (3 huevo 3 9) (4 plancha 3 12) (5 tarta 3 15) (1 celular 4 4) (2 pan 4 8) (3 lima 4 12) (4 alcancia 4 16) (5 verde 4 20) (1 tapadera 5 5) (2 leche 5 10) (3 pan 5 15) (4 refresco 5 20) (5 brujula 5 25) (1 licuadora 6 6) (2 techo 6 12) (3 acelga 6 18) (4 cafetera 6 24) (5 haba 6 30) (1 arroz 7 7) (2 sarten 7 14) (3 helado 7 21) (4 plancha 7 28) (5 radiador 7 35) (1 toallitas 8 8) (2 pluma 8 16) (3 crema 8 24) (4 taza 8 32) (5 peine 8 40) (1 tapadera 9 9) (2 dado 9 18) (3 bocina 9 27) (4 cafetera 9 36) (5 aspiradora 9 45))
+Articulos menores:  ((1 aceituna 0 1) (2 melon 1 2) (3 fuego 1 3) (4 licuadora 1 4) (5 almohada 1 5) (1 cuchara 2 2) (2 pimienta 2 4) (3 cuchillo 2 6) (4 chocolate 2 8) (5 lavadora 2 10) (1 fuente 3 3) (2 calabaza 3 6) (3 isla 3 9) (4 castano 3 12) (5 frambuesa 3 15) (1 nuez 4 4) (2 olla 4 8) (3 abrelatas 4 12) (4 mesita 4 16) (5 arandano 4 20) (1 tarta 5 5) (2 sofa 5 10) (3 limon 5 15) (4 tetera 5 20) (5 judia 5 25) (1 relieve 6 6) (2 batidora 6 12) (3 champinon 6 18) (4 flor 6 24) (5 relieve 6 30) (1 batidora 7 7) (2 bajo 7 14) (3 botella 7 21) (4 fuente 7 28) (5 escalera 7 35) (1 verde 8 8) ((2 3tarta  8 lima 16)8  24)
+INSTRUCCION:  final
+Valor total del carrusel 84908
+(3 estante 9 27)
+Arriba
+Valor total del carrusel 62732
+
+(3 botiquin 8 24) (4 bateria 8 32) (5 vaca 8 40) (1 juguete 9 9) (2 apio 9 18) (3 ladrillo 9 27) (4 piña 9 36) (5 arroz 9 45))
+(1 callejon 17 17)
+INSTRUCCION:  abajon
+Articulos menores:  ((1 garbanzo 8 8) (2 naranja 8 16) (3 lima 8 24) (4 freidora 8 32) (5 pila 8 40) (1 cereal 9 9) (2 repollo 9 18) (3 botiquin 9 27) (4 taza 9 36) (5 rebanadora 9 45) (1 alto 1 1) (2 copa 1 2) (3 tarta 1 3) (4 melon 1 4) (5 piramide 1 5) (1 lechuga 2 2) (2 aspiradora 2 4) (3 castano 2 6) (4 peluche 2 8) (5 ajo 2 10) (1 granada 3 3) (2 cuentos 3 6) (3 platano 0 9) (4 aire 3 12) (5 estante 3 15) (1 candela 4 4) (2 repollo 4 8) (3 conejito 4 12) (4 auriculares 4 16) (5 castano 4 20) (1 libro 5 5) (2 cortinas 5 10) (3 herramientas 5 15) (4 auriculares 5 20) (5 camara 5 25) (1 frutero 6 6) (2 plato 6 12) (3 zanahoria 6 18) (4 zapato 6 24) (5 paracaidas 6 30) (1 leche 7 7) (2 frutero 7 14) (4 gorra 7 28) (5 tetera 7 35))
+Valor total del carrusel 62732
+(1 banco 0 1)
+INSTRUCCION:  final
+Valor total del carrusel 416745219
+Articulos menores:  ((1 banco 0 1) (2 sal 1 2) (3 mantel 1 3) (4 ciruela 1 4) (5 piano 1 5) (1 brujula 2 2) (2 calabaza 2 4) (3 techo 2 6) (4 corbata 2 8) (5 helado 2 10) (1 miel 3 3) (2 conejito 3 6) (3 auriculares 3 9) (4 placard 3 12) (5 fuente 3 15) (1 paraguas 4 4) (2 albaricoque 4 8) (3 semaforo 4 12) (4 cremallera 4 16) (5 moneda 4 20) (1 ajo 5 5) (2 sandia 5 10) (3 escalera 5 15) (4 judia 5 20) (5 brujula 5 25) (1 tarta 6 6) (2 relieve 6 12) (3 lata 6 18) (4 lata 6 24) (5 candado 6 30) (1 hombre 7 7) (2 calle 7 14) (3 castano 7 21) (4 ladrillo 7 28) (5 ardilla 7 35) (1 pomada 8 8) (2 taza 8 16) (3 conejito 8 24) (4 pimienta 8 32) (5 bollo 8 40) (1 telefono 9 9) (2 pestaña 9 18) (3 rastrillo 9 27) (4 ensaladera 9 36) (5 cucharilla 9 45))
+(5 sello 0 55)
+(1 naranja 0 1)
+Valor total del carrusel 62732
+(1 naranja 0 1)
+INSTRUCCION:  final
+(1 huevo 275 22)
+INSTRUCCION:  agregar-producto 11
+(3 bolso 10 30)
+Arriba
+Articulos menores:  ((1 naranja 0 1) (2 portatil 1 2) (3 galleta 1 3) (4 miel 1 4) (5 cuentos 1 5) (1 cereal 2 2) (2 auriculares 2 4) (3 rompecabezas 2 6) (4 cuchara 2 8) (5 mante 2 10) (1 mantequilla 3 3) (2 radiador 3 6) (3 botella 3 9) (4 patata 3 12) (5 fresa 3 15) (1 vaca 4 4) (2 servilleta 4 8) (3 gancho 4 12) (4 tazon 4 16) (5 nina 4 20) (1 colchon 5 5) (2 rabanito 5 10) (3 chimenea 5 15) (4 paraguas 5 20) (5 manzana 5 25) (1 champinon 6 6) (2 berenjena 6 12) (3 zanahoria 6 18) (4 sarten 6 24) (5 plátano 6 30) (1 radiador 7 7) (2 bicicleta 7 14) (3 calendario 7 21) (4 batidora 7 28) (5 trapeador 7 35) (1 cartel 8 8) (2 ajo 8 16) (3 alcancia 8 24) (4 abrelatas 8 32) (5 cuchillo 8 40) (1 piano 9 9) (2 tenedor 9 18) (3 castano 9 27) (4 pimiento 9 36) (5 helado 9 45) (3 derechanaranja
+ Llegaste!
+0 36))
+INSTRUCCION:  abajon
+(1 cartera 275 22)
+INSTRUCCION:  agregar-producto 11
+Valor total del carrusel 70220
+(1 madera 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 caramelo 0 1)
+(1 helicoptero 275 22)
+INSTRUCCION:  agregar-producto 11
+(3 pimiento 11 33)
+INSTRUCCION:  abajon
+(1 semaforo 286 22)
+INSTRUCCION:  arriban
+(1 pomada 16 16)
+INSTRUCCION:  abajon
+(1 cafetera 275 22)
+INSTRUCCION:  agregar-producto 11
+INSTRUCCION:  abajon
+(4 tomate 274 84)
+INSTRUCCION:  agregar-producto 11
+(5 sello 0 55)
+INSTRUCCION:  derechon
+INSTRUCCION:  abajon
+(2 control 396 22)
+Movimiento invalido
+INSTRUCCION:  abajon
+(1 madera 286 22)
+INSTRUCCION:  arriban
+(1 faro 15 15)
+INSTRUCCION:  abajon
+(1 helicoptero 286 22)
+INSTRUCCION:  arriban
+(1 huevo 286 22)
+INSTRUCCION:  arriban
+(1 apio 275 22)
+INSTRUCCION:  agregar-producto 11
+izquierda
+Llegaste!
+(1 marco 275 22)
+INSTRUCCION:  agregar-producto 11
+(1 amarillo 275 22)
+INSTRUCCION:  agregar-producto 11
+(5 berro 10 50)
+INSTRUCCION:  retirar-producto chocolate 15
+(1 cartera 286 22)
+INSTRUCCION:  arriban
+(1 cafetera 286 22)
+INSTRUCCION:  arriban
+(1 brocoli 0 1)
+INSTRUCCION:  final
+(2 control 407 22)
+INSTRUCCION:  arriban
+(1 chocolate 0 1)
+INSTRUCCION:  final
+Articulos menores:  ((1 brocoli 0 1) (2 camara 1 2) (3 cinta 1 3) (4 chocolate 1 4) (5 radiador 1 5) (1 cable 2 2) (2 candela 2 4) (3 zapato 2 6) (4 berenjena 2 8) (5 lenteja 2 10) (1 candado 3 3) (2 frasco 3 6) (3 relieve 3 9) (4 helado 3 12) (5 esponja 3 15) (1 sol 4 4) (2 apio 4 8) (3 mesita 4 12) (4 galleta 4 16) (5 dado 4 20) (1 aparato 5 5) (2 semilla 5 10) (3 parlante 5 15) (4 sandia 5 20) (5 candelabro 5 25) (1 rojo 6 6) (2 pan 6 12) (3 sarten 6 18) (4 florero 6 24) (5 cafetera 6 30) (1 cazuela 7 7) (2 secadora 7 14) (3 rompecabezas 7 21) (4 haba 7 28) (5 lima 7 35) (1 servilleta 8 8) (2 candela 8 16) (3 destornillador 8 24) (4 limon 8 32) (5 cubiertos 8 40) (1 alfombra 9 9) (2 toalla 9 18) (3 pastel 9 27) (4 higo 9 36) (5 licuadora 9 45) (5 brocoli 0 85))
+Abajo
+Articulos menores:  ((1 chocolate 0 1) (2 champinon 1 2) (3 huevo 1 3) (4 candelabro 1 4) (5 candela 1 5) (1 lapiz 2 2) (2 frutero 2 4) (3 platos 2 6) (4 bocina 2 8) (5 trigo 2 10) (1 peine 3 3) (2 brujula 3 6) (3 ciudad 3 9) (4 pimienta 3 12) (5 plancha 3 15) (1 helado 4 4) (2 soja 4 8) (3 foto 4 12) (4 sandalias 4 16) (5 azul 4 20) (1 melon 5 5) (2 rastrillo 5 10) (3 licuadora 5 15) (4 marco 5 20) (5 lapiz 5 25) (1 pomada 6 6) (2 coliflor 6 12) (3 pepino 6 18) (4 albaricoque 6 24) (5 escoba 6 30) (1 hongo 7 7) (2 navaja 7 14) (3 bocina 7 21) (4 sillon 7 28) (5 platano 7 35) (1 botiquin 8 8) (2 frambuesa 8 16) (3 higo 8 24) (4 plato 8 32) (5 pinceles 8 40) (1 apio 9 9) (2 moneda 9 18) (3 judia 9 27) (4 moneda 9 36) (5 cable 9 45) (4 chocolate 0 60) (5 chocolate 0 90))
+Valor total del carrusel 61287
+(1 albaricoque 0 1)
+INSTRUCCION:  final
+Valor total del carrusel 82652
+Articulos menores:  ((1 albaricoque 0 1) (2 pera 1 2) (3 avena 1 3) (4 almohada 1 4) (5 almohada 1 5) (1 mango 2 2) (2 conejito 2 4) (3 cortinas 2 6) (4 teclado 2 8) (5 parlante 2 10) (1 cuchillo 3 3) (2 alto 3 6) (3 suelo 3 9) (4 pepino 3 12) (5 telefono 3 15) (1 foto 4 4) (2 azul 4 8) (3 escoba 4 12) (4 zapato 4 16) (5 plancha 4 20) (1 columpio 5 5) (2 cinta 5 10) (3 radiador 5 15) (4 ensaladera 5 20) (5 pera 5 25) (1 cuchillo 6 6) (2 guisante 6 12) (3 techo 6 18) (4 estufa 6 24) (5 carroza 6 30) (1 cafetera 7 7) (2 galleta 7 14) (3 mantequilla 7 21) (4 calendario 7 28) (5 chimenea 7 35) (1 mantequilla 8 8) (2 judia 8 16) (3 licuadora 8 24) (4 cable 8 32) (5 batidora 8 40) (1 fuente 9 9) (2 lima 9 18) (3 semilla 9 27) (4 sol 9 36) (5 pintalabios 9 45))
+(1 ordenador 0 1)
+INSTRUCCION:  final
+(2 aparato 12 24)
+INSTRUCCION:  final
+(1 gancho 0 1)
+INSTRUCCION:  final
+Articulos menores:  ((1 cucharilla 1 1) (2 batidora 1 2) (3 estrecho 1 3) (4 piramide 1 4) (1 (apio 5 286berenjena  22)1 
+5) INSTRUCCION:  (arriban
+1 cigarrillo 2 2) (2 calabacin 2 4) (3 tapadera 2 6) (4 peluche 2 8) (5 cuadro 2 10) (1 pastel 3 3) (2 aparato 3 6) (3 bolso 3 9) (4 banco 3 12) (5 cucharilla 3 15) (1 pantallas 4 4) (2 plátano 4 8) (3 cuchara 4 12) (4 libreta 4 16) (5 agua 4 20) (1 audifonos 5 5) (2 sarten 5 10) (3 vino 5 15) (4 fresa 5 20) (5 agua 5 25) (1 candelabro 6 6) (2 sofa 6 12) (3 tela 6 18) (4 sol 6 24) (5 frasco 6 30) (1 cuchillo 7 7) (2 ciruela 7 14) (3 cable 7 21) (4 globos 7 28) (5 cartel 7 35) (1 gancho 8 8) (2 bicicleta 8 16) (3 caja 0 24) (4 taza 8 32) (5 espejo 8 40) (1 sandia 9 9) (2 cartera 9 18) (3 estante 9 27) (4 sarten 9 36) (5 calabaza 9 45))
+Articulos menores:  ((1 gancho 0 1) (2 champinon 1 2) (3 blanco 1 3) (4 tenedor 1 4) (5 globo 1 5) (1 tetera 2 2) (2 calabaza 2 4) (3 almohada 2 6) (4 cepillo 2 8) (5 melon 2 10) (1 blanco 3 3) (2 ventana 3 6) (3 calabacin 3 9) (4 chicle 3 12) (5 telefono 3 15) (1 cubiertos 4 4) (2 paraguas 4 8) (3 camiseta 4 12) (4 control 4 16) (5 galleta 4 20) (1 calabaza 5 5) (2 mapa 5 10) (3 ensaladera 5 15) (4 frutero 5 20) (5 pizza 5 25) (1 tarta 6 6) (2 pan 6 12) (3 papaya 6 18) (4 gancho 0 24) (5 caramelo 6 30) (1 secadora 7 7) (2 leche 7 14) (3 globos 7 21) (4 batidora 7 28) (5 apio 7 35) (1 crema 8 8) (2 secadora 8 16) (3 blanco 8 24) (4 pera 8 32) (5 plancha 8 40) (1 aspiradora 9 9) (2 almohada 9 18) (3 cafetera 9 27) (4 helicoptero 9 36) (5 crema 9 45))
+Articulos menores:  ((1 ordenador 0 1) (2 mesita 1 2) (3 acelga 1 3) (4 mantequilla 1 4) (5 placard 1 5) (1 maquina 2 2) (2 chicle 2 4) (3 flor 2 6) (4 balon 2 8) (5 zapato 2 10) (1 hoja 3 3) (2 zapato 3 6) (3 galleta 3 9) (4 flor 3 12) (5 cerca 3 15) (1 semilla 4 4) (2 pepino 4 8) (3 mango 4 12) (4 panuelo 4 16) (5 taza 4 20) (1 lenteja 5 5) (2 bateria 5 10) (3 escalera 5 15) (4 melon 5 20) (5 patata 5 25) (1 pimiento 6 6) (2 toalla 6 12) (3 mapa 6 18) (4 pomada 6 24) (5 hombre 6 30) (1 bicicleta 7 7) (2 peine 7 14) (3 copa 7 21) (4 centeno 7 28) (5 cuentos 7 35) (1 papaya 8 8) (2 madera 8 16) (3 faro 8 24) (4 suave 8 32) (5 amarillo 8 40) (1 suave 9 9) (2 leche 9 18) (3 bizcocho 9 27) (4 queso 9 36) (5 sal 9 45))
+Valor total del carrusel 65445
+Valor total del carrusel 77780
+(5 pasta 9 45)
+Abajo
+Valor total del carrusel 62732
+Valor total del carrusel 62588
+(1 rompecabezas 14 14)
+INSTRUCCION:  agregar-producto pantallas 40
+(1 marco 286 22)
+INSTRUCCION:  arriban
+(1 fuego 0 1)
+INSTRUCCION:  final
+Arriba
+(1 amarillo 286 22)
+INSTRUCCION:  arriban
+Articulos menores:  ((1 fuego 0 1) (2 aire 1 2) (3 sillon 1 3) (4 verde 1 4) (5 albaricoque 1 5) (1 mango 2 2) (2 duro 2 4) (3 cielo 2 6) (4 haba 2 8) (5 globos 2 10) (1 pequeno 3 3) (2 tierra 3 6) (3 cuchillo 3 9) (4 cereza 3 12) (5 fuente 3 15) (1 microondas 4 4) (2 piramide 4 8) (3 ciruela 4 12) (4 higo 4 16) (5 espinaca 4 20) (1 ajo 5 5) (2 avena 5 10) (3 pera 5 15) (4 cuadro 5 20) (5 calabaza 5 25) (1 hombre 6 6) (2 frambuesa 6 12) (3 vino 6 18) (4 portarretratos 6 24) (5 llave 6 30) (1 cuchara 7 7) (2 cuchara 7 14) (3 estrecho 7 21) (4 piramide 7 28) (5 ordenador 7 35) (1 nevera 8 8) (2 horno 8 16) (3 puerta 8 24) (4 tableta 8 32) (5 plancha 8 40) (1 sandia 9 9) (2 champu 9 18) (3 higo 9 27) (4 piedra 9 36) (5 brujula 9 45))
+(4 tomate 285 84)
+INSTRUCCION:  arriban
+(1 tarta 0 1)
+INSTRUCCION:  final
+(5 isla 8 40)
+Abajo
+Valor total del carrusel 62732
+Articulos menores:  ((1 tarta 0 1) (2 tenedor 1 2) (3 lima 1 3) (4 calendario 1 4) (5 cuchillo 1 5) (1 leche 2 2) (2 reloj 2 4) (3 cepillo 2 6) (4 plancha 2 8) (5 ramo 2 10) (1 suelo 3 3) (2 espinaca 3 6) (3 rabanito 3 9) (4 batidora 3 12) (5 vino 3 15) (1 pepino 4 4) (2 mesa 4 8) (3 crema 4 12) (4 despertador 4 16) (5 fresa 4 20) (1 cortina 5 5) (2 calentador 5 10) (3 techo 5 15) (4 sello 5 20) (5 microondas 5 25) (1 monedero 6 6) (2 lenteja 6 12) (3 tierra 6 18) (4 gorro 6 24) (5 tierra 6 30) (1 calculadora 7 7) (2 navaja 7 14) (3 guisante 7 21) (4 relieve 7 28) (5 pintura 7 35) (1 pimiento 8 8) (2 lata 8 16) (3 cuna 8 24) (4 nina 8 32) (5 maquillaje 8 40) (1 herramientas 9 9) (2 chocolate 9 18) (3 paracaidas 9 27) (4 higo 9 36) (5 monedero 9 45))
+(1 naranja 0 1)
+INSTRUCCION:  final
+Valor total del carrusel 78572
+(1 faro 15 15)
+Articulos menores:  (Arriba
+(1 naranja 0 1) (2 marioneta 1 2) (3 alto 1 3) (4 piña 1 4) (5 colchon 1 5) (1 labial 2 2) (2 bomba 2 4) (3 monedero 2 6) (4 vino 2 8) (5 silla 2 10) (1 microondas 3 3) (2 garbanzo 3 6) (3 pala 3 9) (4 pimienta 3 12) (5 cortina 3 15) (1 pantallas 4 4) (2 techo 4 8) (3 plato 4 12) (4 abrelatas 4 16) (5 nieve 4 20) (1 esparrago 5 5) (2 frutero 5 10) (3 metal 5 15) (4 pan 5 20) (5 cielo 5 25) (1 piedra 6 6) (2 palillos 6 12) (3 natillas 6 18) (4 grande 6 24) (5 escoba 6 30) (1 soja 7 7) (2 piano 7 14) (3 gorro 7 21) (4 exprimidor 7 28) (5 hombre 7 35) (1 mesa 8 8) (2 tela 8 16) (3 peluche 8 24) (4 duro 8 32) (5 pintura 8 40) (1 tortuga 9 9) (2 cebada 9 18) (3 yogur 9 27) (4 tela 9 36) (5 tetera 9 45))
+(1 caramelo 0 1)
+INSTRUCCION:  final
+(4 pastel 0 88)
+INSTRUCCION:  final
+Valor total del carrusel 62732
+Articulos menores:  ((1 caramelo 0 1) (2 rebanadora 1 2) (3 chocolate 1 3) (4 pepino 1 4) (5 sol 1 5) (1 cepo 2 2) (2 manicura 2 4) (3 pastel 2 6) (4 calle 2 8) (5 gris 2 10) (1 cuchillo 3 3) (2 calabaza 3 6) (3 pestaña 3 9) (4 garbanzo 3 12) (5 calentador 3 15) (1 mante 4 4) (2 tornillo 4 8) (3 tarta 4 12) (4 cuna 4 16) (5 plato 4 20) (1 higo 5 5) (2 alto 5 10) (3 parrilla 5 15) (4 fuente 5 20) (5 tijera 5 25) (1 lindo 6 6) (2 carroza 6 12) (3 botella 6 18) (4 melon 6 24) (5 hilo 6 30) (1 helicoptero 7 7) (2 toalla 7 14) (3 columpio 7 21) (4 cafetera 7 28) (5 escalera 7 35) (1 despertador 8 8) (2 hoja 8 16) (3 ladrillo 8 24) (4 uva 8 32) (5 ajo 8 40) (1 secadora 9 9) (2 portarretratos 9 18) (3 chicle 9 27) (4 libro 9 36) (5 radiador 9 45))
+Articulos menores:  ((4 pastel 0 88) (1 brocoli 1 1) (2 medias 1 2) (3 ciruela 0 3) (4 cortina 1 4) (5 pila 1 5) (1 cable 2 2) (2 trapeador 2 4) (3 candela 2 6) (4 tela 2 8) (5 calabaza 2 10) (5 sarten (7 135 )coliflor
+ Abajo
+3 3) (2 parrilla 3 6) (3 lata 3 9) (4 tostadora 3 12) (5 metal 3 15) (1 pepino 4 4) (2 vino 4 8) (3 calendario 4 12) (4 espejo 4 16) (5 lapiz 4 20) (1 calabaza 5 5) (2 cereza 5 10) (3 avena 5 15) (4 azul 5 20) (5 tarta 5 25) (1 peluche 6 6) (2 licuadora 6 12) (3 madera 6 18) (4 bomba 6 24) (5 maiz 6 30) (1 dado 7 7) (2 sal 7 14) (3 copa 7 21) (4 lata 7 28) (5 cable 7 35) (1 candado 8 8) (2 suave 8 16) (3 hervidor 8 24) (4 cuchara 8 32) (5 miel 8 40) (1 nieve 9 9) (3 piano 9 27) (4 bicicleta 9 36) (5 calabacin 9 45) (2 pastel 0 32) (4 pala 0 64) (3 pastel 0 54))
+Valor total del carrusel 62732
+Valor total del carrusel 104770
+(1 pomada 16 16)
+Arriba
+(5 cuchillo 6 30)
+Abajo
+(1 callejon 17 17)
+Arriba
+(5 botella 5 25)
+Abajo
+(1 azucar (18 18)5 
+aireArriba
+ 4 20)
+Abajo
+(1 pantallas 120 19)
+(5 mantequilla 3 15)
+Llegaste!
+(4 fresa 3 12)
+(1 pantallas 160 19)
+INSTRUCCION:  retirar-producto cuchara 15
+izquierda
+Abajo
+(3 chocolate 0 9)
+(1 azucar 18 18)
+Abajo
+izquierda
+Llegaste!
+(1 callejon 17 17)
+Abajo
+(3 chocolate 0 9)
+INSTRUCCION:  derechon
+(1 pomada 16 16)
+Abajo
+(4 fresa 3 12)
+INSTRUCCION:  derechon
+(1 faro 15 15)
+Abajo
+(5 mantequilla 3 15)
+INSTRUCCION:  agregar-producto ciruela 25
+(1 rompecabezas 14 14)
+Abajo
+Arriba
+(1 calle 13 13)
+Abajo
+(5 aire 4 20)
+Arriba
+(1 melon 12 12)
+Abajo
+(5 botella 5 25)
+Arriba
+(1 blanco 11 11)
+Abajo
+(5 cuchillo 6 30)
+Arriba
+(1 cereza 10 10)
+Abajo
+(5 sarten 7 35)
+Arriba
+(1 melon 9 9)
+Abajo
+(5 isla 8 40)
+((41  sandia calabacin 8 8 832))
+
+Abajo
+izquierda
+(1 leche 7 7)
+Abajo
+(3 ciruela 1008 24)
+izquierda
+Llegaste!
+(1 mantel 6 6)
+Abajo
+(3 ciruela 1033 24)
+INSTRUCCION:  derechon
+(1 panuelo 5 5)
+Abajo
+(4 calabacin 8 32)
+(1 guisante 4 4)
+Abajo
+INSTRUCCION:  agregar-producto mante 10
+Arriba
+(1 cafetera 3 3)
+Abajo
+(4 almohada 9 36)
+Arriba
+(1 negro 2 2)
+Abajo
+(4 licuadora 10 40)
+Arriba
+(1 lampara 0 1)
+(4 pimienta 11 44)
+Arriba
+(2 escalera 1 2)
+derecha
+(4 cucharas 12 48)
+Arriba
+(3 juego 1 3)
+(4 arbol 13 52)
+Arriba
+derecha
+(4 granada 14 56)
+Arriba
+(4 nina 1 4)
+(4 cafetera 15 60)
+Arriba
+derecha
+(5 cuchara 0 5)
+(4 cubiertos 16 64)
+derecha
+Llegaste!
+(3 centeno 16 48)
+izquierda
+(5 cuchara 0 5)
+INSTRUCCION:  derechon
+Movimiento invalido
+INSTRUCCION:  derechon
+(2 pastel 16 32)
+Movimiento invalido
+INSTRUCCION:  agregar-producto cortina 25
+izquierda
+Arriba
+(1 mante 416 16)
+(5 faro 2 10)
+Arriba
+izquierda
+Llegaste!
+(5 tarta 3 15)
+Arriba
+(1 mante 426 16)
+INSTRUCCION:  final
+Articulos menores:  ((1 tetera 1 1) (2 calabaza 1 2) (3 esparrago 1 3) (4 lampara 1 4) (5 huevo 1 5) (1 pasta 2 2) (2 cereal 2 4) (3 cereza 2 6) (4 uva 2 8) (1 mapa 3 3) (2 aire 3 6) (3 chocolate 0 9) (4 fresa 3 12) (5 mantequilla 3 15) (1 bateria 4 4) (2 pan 4 8) (3 teclado 4 12) (4 coliflor 4 16) (5 aire 4 20) (1 estrecho 5 5) (2 pala 5 10) (3 plátano 5 15) (4 kiwi 5 20) (5 botella 5 25) (1 duro 6 6) (2 calculadora 6 12) (3 calabacin 6 18) (4 cafetera 6 24) (5 cuchillo 6 30) (1 botiquin 7 7) (2 dinosaurio 7 14) (3 sal 7 21) (4 pepino 7 28) (5 sarten 7 35) (1 nuez 8 8) (2 taza 8 16) (4 calabacin 8 32) (5 isla 8 40) (1 botella 9 9) (2 lima 9 18) (3 estufa 9 27) (4 almohada 9 36) (5 pasta 9 45) (5 sello 0 55))
+Valor total del carrusel 95273
+(5 gris 4 20)
+Arriba
+(5 bateria 0 25)
+Arriba
+(5 cebolla 6 30)
+Arriba
+(5 tornillo 7 35)
+Arriba
+(5 foto 8 40)
+Arriba
+(5 uva 9 45)
+Arriba
+(5 cama 10 50)
+Arriba
+(5 queso 11 55)
+Arriba
+(5 membrillo 12 60)
+Arriba
+(5 acelga 13 65)
+Arriba
+(5 cafetera 14 70)
+(4 tomate 14 56)
+izquierda
+(3 cortina 1214 42)
+izquierda
+Llegaste!
+(3 cortina 1239 42)
+INSTRUCCION:  derechon
+(4 tomate 14 56)
+INSTRUCCION:  agregar-producto taza 10
+Arriba
+(4 candado 15 60)
+Arriba
+(4 cama 16 64)
+Arriba
+(4 servilleta 17 68)
+Arriba
+(4 cartas 18 72)
+Arriba
+(4 coliflor 19 76)
+Arriba
+(4 manicura 20 80)
+(3 aire 20 60)
+izquierda
+(2 piña 20 40)
+izquierda
+(1 taza 500 20)
+izquierda
+Llegaste!
+(1 taza 510 20)
+INSTRUCCION:  final
+Articulos menores:  ((1 lampara 0 1) (2 escalera 1 2) (3 juego 1 3) (4 nina 1 4) (5 cuchara 0 5) (1 negro 2 2) (2 servilleta 2 4) (3 caja 2 6) (4 castillo 2 8) (5 faro 2 10) (1 cafetera 3 3) (2 ramo 3 6) (3 pepino 3 9) (4 cuchara 0 12) (5 tarta 3 15) (1 guisante 4 4) (2 tableta 4 8) (3 pastel 4 12) (4 espejo 4 16) (5 gris 4 20) (1 panuelo 5 5) (2 zanahoria 5 10) (3 frutero 5 15) (4 suelo 5 20) (5 bateria 0 25) (1 mantel 6 6) (2 cebada 6 12) (3 ciudad 6 18) (4 tornillo 6 24) (5 cebolla 6 30) (1 leche 7 7) (2 silla 7 14) (3 tetera 7 21) (4 peine 7 28) (5 tornillo 7 35) (1 sandia 8 8) (2 manzana 8 16) (4 exprimidor 8 32) (5 foto 8 40) (1 melon 9 9) (2 papaya 9 18) (3 hilo 9 27) (4 peine 9 36) (5 uva 9 45) (5 bateria 0 90))
+Valor total del carrusel 151602
+INSTRUCCION: INSTRUCCION:  INSTRUCCION:   retirar-producto 8
+retirar-producto 8INSTRUCCION:  retirar-producto 8
+INSTRUCCION:  retirar-producto 8
+INSTRUCCION:  retirar-producto 8
+INSTRUCCION:  retirar-producto 8
+
+retirar-producto 8
+INSTRUCCION:  retirar-producto 8
+(1 mujer 0 1)
+INSTRUCCION:  derechon
+(1 miel 0 1)
+INSTRUCCION:  derechon
+(1 mante 0 1)
+INSTRUCCION:  derechon
+(1 champinon 0 1)
+INSTRUCCION:  derechon
+(1 radiador 0 1)
+INSTRUCCION:  derechon
+(1 sillon 0 1)
+INSTRUCCION:  derechon
+(1 cortina 0 1)
+INSTRUCCION:  derechon
+(2 nino 1 2)
+(2 estante 1 2)
+(2 castillo 1 2)
+(2 camiseta 1 2)
+(2 helicoptero 1 2)
+(2 cuchillo 1 2)
+(INSTRUCCION: 2  izquierdonmantel 
+1 2)
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+INSTRUCCION:  izquierdon
+(1 radiador 0 1)
+INSTRUCCION:  izquierdon
+(1 miel 0 1)
+(1 champinon 0 1)
+INSTRUCCION:  izquierdon
+INSTRUCCION:  abajon
+INSTRUCCION:  abajon
+(1 sillon 0 1)
+INSTRUCCION:  abajon
+(1 mujer 0 1)
+(1 cortina 0 1)
+INSTRUCCION:  abajon
+(1 auriculares 264 22)
+INSTRUCCION:  agregar-producto 11
+INSTRUCCION:  abajon
+INSTRUCCION:  abajon
+(1 mesa 264 22)
+INSTRUCCION:  agregar-producto 11
+(1 licuadora 264 22)
+INSTRUCCION:  agregar-producto 11
+(1 llave 0 1)
+INSTRUCCION:  derechon
+(1 auriculares 275 22)
+INSTRUCCION:  arriban
+(1 castillo 264 22)
+INSTRUCCION:  agregar-producto 11
+(1 plancha 264 22)
+INSTRUCCION:  agregar-producto 11
+(1 almohada 264 22)
+INSTRUCCION:  agregar-producto 11
+(1 licuadora 275 22)
+INSTRUCCION:  arriban
+(1 champinon 0 1)
+INSTRUCCION:  final
+Articulos menores:  ((1 champinon 0 1) (2 helicoptero 1 2) (3 almohada 1 3) (4 apio 1 4) (5 papaya 1 5) (1 maquillaje 2 2) (2 olla 2 4) (3 cafetera 2 6) (4 manzana 2 8) (5 calabaza 2 10) (1 helado 3 3) (2 paracaidas 3 6) (3 cuchara 3 9) (4 dinosaurio 3 12) (5 ladrillo 3 15) (1 frambuesa 4 4) (2 patines 4 8) (3 lapiz 4 12) (4 cebolla 4 16) (5 hojaldre 4 20) (1 pimiento 5 5) (2 mujer 5 10) (3 pasta 5 15) (4 batidora 5 20) (5 sandalias 5 25) (1 olla 6 6) (2 semilla 6 12) (3 mesa 6 18) (4 cielo 6 24) (5 madera 6 30) (1 lapiz 7 7) (2 ardilla 7 14) (3 servilleta 7 21) (4 semilla 7 28) (5 brocoli 7 35) (1 fuego 8 8) (2 crema 8 16) (3 flores 8 24) (4 frambuesa 8 32) (5 batidora 8 40) (1 tenedor 9 9) (2 servilleta 9 18) (3 muneca 9 27) (4 melon 9 36) (5 espinaca 9 45))
+(1 mante 0 1)
+Valor total del carrusel 62490
+(1 castillo 275 22)
+INSTRUCCION:  arriban
+(1 sillon 0 1)
+INSTRUCCION:  abajon
+(1 (1 plancha 275 22)
+INSTRUCCION: INSTRUCCION:   arriban
+mesa 275 22)final
+
+INSTRUCCION:  arriban
+(1 almohada 275 22)
+INSTRUCCION:  arriban
+Articulos menores:  ((1 sillon 0 1) (2 cuchillo 1 2) (3 cafetera 1 3) (4 pintura 1 4) (5 faro 1 5) (1 cuchara 2 2) (2 cafetera 2 4) (3 hojaldre 2 6) (4 hongo 2 8) (5 espinaca 2 10) (1 placard 3 3) (2 pepino 3 6) (3 juguete 3 9) (4 papaya 3 12) (5 platano 3 15) (1 frambuesa 4 4) (2 corbata 4 8) (3 vaso 4 12) (4 nina 4 16) (5 mantequilla 4 20) (1 sarten 5 5) (2 conejito 5 10) (3 galleta 5 15) (4 paracaidas 5 20) (5 chicle 5 25) (1 pantallas 6 6) (2 gorra 6 12) (3 galleta 6 18) (4 gancho 6 24) (5 naranja 6 30) (1 vaca 7 7) (2 arbol 7 14) (3 chicle 7 21) (4 manicura 7 28) (5 flamenco 7 35) (1 laptop 8 8) (2 yogur 8 16) (3 calabacin 8 24) (4 uva 8 32) (5 candelabro 8 40) (1 cereal 9 9) (2 arbol 9 18) (3 pestaña 9 27) (4 manicura 9 36) (5 globo 9 45))
+Valor total del carrusel 62490
+(1 radiador 0 1)
+(INSTRUCCION:  1 (final
+(1 1 manicuramiel  0 264 22)
+(INSTRUCCION:  agregar-producto 11
+1 cortina 0 1)
+INSTRUCCION:  final
+1)
+INSTRUCCION:  final
+mujer 0 1)
+INSTRUCCION:  final
+Articulos menores:  ((1 radiador 0 1) (2 castillo 1 2) (3 horno 1 3) (4 plato 1 4) (5 uva 1 5) (1 bajo 2 2) (2 telefono 2 4) (3 plato 2 6) (4 tornillo 2 8) (5 tenedor 2 10) (1 calendario 3 3) (2 nieve 3 6) (3 cuchillo 3 9) (4 haba 3 12) (5 cereza 3 15) (1 piña 4 4) (2 caramelo 4 8) (3 amarillo 4 12) (4 candela 4 16) (5 espejo 4 20) (1 platos 5 5) (2 secadora 5 10) (3 crema 5 15) (4 chicle 5 20) (5 pimiento 5 25) (1 candela 6 6) (2 pan 6 12) (3 plancha 6 18) (4 rabanito 6 24) (5 esparrago 6 30) (1 reloj 7 7) (2 calabacin 7 14) (3 maquina 7 21) (4 trapeador 7 28) (5 refrigerador 7 35) (1 camion 8 8) (2 libro 8 16) (3 semilla 8 24) (4 cepo 8 32) (5 rompecabezas 8 40) (1 llave 9 9) (2 panuelo 9 18) (3 cortina 9 27) (4 piedra 9 36) (5 plato 9 45))
+Articulos menores:  ((1 mujer 0 1) (2 camiseta 1 2) (3 lenteja 1 3) (4 puerta 1 4) (5 frasco 1 5) (1 radiador 2 2) (2 cafetera 2 4) (3 calendario 2 6) (4 paraguas 2 8) (5 botiquin 2 10) (1 gancho 3 3) (2 plato 3 6) (3 portarretratos 3 9) (Articulos menores: 4 calabaza 3  12) ((5 platano 3 (15) 1 (cortina 10  1) (monedero 2 4mantel  1 42))  ((23  brujulaacelga  41  83))  ((34  hombrejuego  41  124))  ((45  rompecabezasvaca  41  165))  ((51  dulcesal  42  202))  ((12  frascomanzana  52  54))  ((23  mediasrelieve  52  106))  ((34  cafeteraservilleta  52  158))  ((45  cajasuave  52  2010))  ((51  botiquinfuente 3  53 ) 25) (2 (pajaro 13  6) taza 6( 36 ) cebada 3 (9) 2 haba (6 412 ) mantel 3 12() 3 helado 6 18) (5( 4celular  placard3  15) 6 24) (1 (cuchillo 5 4 radiador 4) 6 30) (1 aceituna 7 7) ((2 2botiquin  4duro  8Articulos menores: )7   14() 3 (planta( 34  (paracaidas12 ) 7 1 21) miel ((0 44 1) espejo  caja 4(7  2 1628)nino  (15  2) (caja )43  20) ( flor1  1rompecabezas(  535)  5) (2 (esponja  4 5vino  cafetera10 7) 1  35) 4) (3( (1marco5  sandia  escalera85  8) 15) (2 (melon 4 8 bajo 16) 5 20) (3 (cable 5 8crema  245)  25) ((41  pepinozanahoria  8 6 32)6 ) ((52  altoesponja  86  4012))  ((1 3 cremaarandano  96  918) () 4 chocolate (6 224 ) tornillo 9 (18) 5 radiador (6 330 ) limon 9 (27) 1 tenedor (7 47 ) licuadora (9 236 ) maiz 7 (14) 5 candado( 39  cinta 45))7 
+21 1 5) (1 mesita 2 2) (2 cafetera 2 4) (3 florero 2 6) (4 sal 2 8) (5 fuente 2 10) (1 apio 3 3) (2 alcancia 3 6) (3 mueble 3 9) (4 repollo 3 12) (5 calculadora 3 15) (1 albaricoque 4 4) (2 pan 4 8) (3 muneca 4 12) (4 helado 4 16) (5 grande 4 20) )( 1 hervidor 5 5) ((2 tomate4  5 10)manicura  7 (28) 3 auriculares 5 (15) 5 aspiradora( 47  35) herramientas (5 120 )ordenador  8 8) (2 callejon (8 516 ) batata (3 5 cuchara 25) 8 24) (4( luz 8 32)1  pan 6 (6) 5 (pintalabios 28  membrillo40 ) 6 12) (1 (cable 39  higo9 ) 6 18) (2 (gancho 49  pluma 18) 6 24) (3( 5uva  higo 9 6 27) 30) ((4 1 abrelatas pajaro 9 7 36) 7) ((5 2 lavadora secadora 97  4514))  (5 (cortina 3 0 55))
+hojaldre 7 21) (4 dulce 7 28) (5 higo 7 35) (1 bateria 8 8) (2 globo 8 16) (3 crema 8 24) (4 membrillo 8 32) (5 horno 8 40) (1 sandia 9 9) (2 hombre 9 18) (3 audifonos 9 27) (4 chocolate 9 36) (5 semilla 9 45))
+Valor total del carrusel 62490
+Valor total del carrusel 62490
+Valor total del carrusel 62490
+Valor total del carrusel 61885
+(2 horno 1 2)
+(1 manicura 275 22)
+INSTRUCCION:  INSTRUCCION: arriban 
+izquierdon
+(1 llave 0 1)
+(1 mante 0 1)
+INSTRUCCION:  final
+INSTRUCCION:  abajon
+Articulos menores:  ((1 mante 0 1) (2 estante 1 2) (3 llave 1 3) (4 herramientas 1 4) (5 toalla 1 5) (1 azucar 2 2) (2 pistola 2 4) (3 fresa 2 6) (4 yogur 2 8) (5 silla 2 10) (1 frambuesa 3 3) (2 colchon 3 6) (3 rastrillo 3 9) (4 radiador 3 12) (5 mora 3 15) (1 albaricoque 4 4) (2 higo 4 8) (3 pinceles 4 12) (4 mantequilla 4 16) (5 libreta 4 20) (1 piña 5 5) (2 cocina 5 10) (3 centeno 5 15) (4 candado 5 20) (5 kiwi 5 25) (1 plato 6 6) (2 callejon 6 12) (3 pasta 6 18) (4 pasta 6 24) (5 carroza 6 30) (1 melon 7 7) (2 cuchara 7 14) (3 bicicleta 7 21) (4 mueble 7 28) (5 panuelo 7 35) (1 melon 8 8) (2 galleta 8 16) (3 cortina 8 24) (4 cartas 8 32) (5 globos 8 40) (1 cafetera 9 9) (2 patines 9 18) (3 plato 9 27) (4 pan 9 36) (5 arbol 9 45))
+Valor total del carrusel 62490
+(1 muneca 264 22)
+INSTRUCCION:  agregar-producto 11
+(1 muneca 275 22)
+INSTRUCCION:  arriban
+(1 llave 0 1)
+INSTRUCCION:  final
+Articulos menores:  ((1 llave 0 1) (2 horno 1 2) (3 taza 1 3) (4 cazuela 1 4) (5 alto 1 5) (1 mujer 2 2) (2 kiwi 2 4) (3 globos 2 6) (4 abrelatas 2 8) (5 gorro 2 10) (1 mesa 3 3) (2 tornillo 3 6) (3 mantequilla 3 9) (4 gorra 3 12) (5 plato 3 15) (1 aparato 4 4) (2 monedero 4 8) (3 tornillo 4 12) (4 coliflor 4 16) (5 pajaro 4 20) (1 faro 5 5) (2 pan 5 10) (3 foto 5 15) (4 apio 5 20) (5 aire 5 25) (1 zapato 6 6) (2 pared 6 12) (3 servilleta 6 18) (4 mujer 6 24) (5 maquina 6 30) (1 semilla 7 7) (2 acelga 7 14) (3 horno 7 21) (4 gancho 7 28) (5 botella 7 35) (1 albaricoque 8 8) (2 navaja 8 16) (3 marcapaginas 8 24) (4 cable 8 32) (5 esponja 8 40) (1 cable 9 9) (2 coliflor 9 18) (3 peluche 9 27) (4 cepo 9 36) (5 pimienton 9 45) (1 llave 0 19))
+Valor total del carrusel 62129
+
+
+Lista de carruseles con articulos por resurtir
+(((carrusel:carrusel1.txthace falta de) (1 lampara 0 1) (2 escalera 1 2) (3 juego 1 3) (4 nina 1 4) (5 cuchara 0 5) (1 negro 2 2) (2 servilleta 2 4) (3 caja 2 6) (4 castillo 2 8) (5 faro 2 10) (1 cafetera 3 3) (2 ramo 3 6) (3 pepino 3 9) (4 cuchara 0 12) (5 tarta 3 15) (1 guisante 4 4) (2 tableta 4 8) (3 pastel 4 12) (4 espejo 4 16) (5 gris 4 20) (1 panuelo 5 5) (2 zanahoria 5 10) (3 frutero 5 15) (4 suelo 5 20) (5 bateria 0 25) (1 mantel 6 6) (2 cebada 6 12) (3 ciudad 6 18) (4 tornillo 6 24) (5 cebolla 6 30) (1 leche 7 7) (2 silla 7 14) (3 tetera 7 21) (4 peine 7 28) (5 tornillo 7 35) (1 sandia 8 8) (2 manzana 8 16) (4 exprimidor 8 32) (5 foto 8 40) (1 melon 9 9) (2 papaya 9 18) (3 hilo 9 27) (4 peine 9 36) (5 uva 9 45) (5 bateria 0 90)) ((carrusel:carrusel2.txthace falta de) (1 tetera 1 1) (2 calabaza 1 2) (3 esparrago 1 3) (4 lampara 1 4) (5 huevo 1 5) (1 pasta 2 2) (2 cereal 2 4) (3 cereza 2 6) (4 uva 2 8) (1 mapa 3 3) (2 aire 3 6) (3 chocolate 0 9) (4 fresa 3 12) (5 mantequilla 3 15) (1 bateria 4 4) (2 pan 4 8) (3 teclado 4 12) (4 coliflor 4 16) (5 aire 4 20) (1 estrecho 5 5) (2 pala 5 10) (3 plátano 5 15) (4 kiwi 5 20) (5 botella 5 25) (1 duro 6 6) (2 calculadora 6 12) (3 calabacin 6 18) (4 cafetera 6 24) (5 cuchillo 6 30) (1 botiquin 7 7) (2 dinosaurio 7 14) (3 sal 7 21) (4 pepino 7 28) (5 sarten 7 35) (1 nuez 8 8) (2 taza 8 16) (4 calabacin 8 32) (5 isla 8 40) (1 botella 9 9) (2 lima 9 18) (3 estufa 9 27) (4 almohada 9 36) (5 pasta 9 45) (5 sello 0 55)) ((carrusel:carrusel3.txthace falta de) (1 cucharilla 1 1) (2 batidora 1 2) (3 estrecho 1 3) (4 piramide 1 4) (5 berenjena 1 5) (1 cigarrillo 2 2) (2 calabacin 2 4) (3 tapadera 2 6) (4 peluche 2 8) (5 cuadro 2 10) (1 pastel 3 3) (2 aparato 3 6) (3 bolso 3 9) (4 banco 3 12) (5 cucharilla 3 15) (1 pantallas 4 4) (2 plátano 4 8) (3 cuchara 4 12) (4 libreta 4 16) (5 agua 4 20) (1 audifonos 5 5) (2 sarten 5 10) (3 vino 5 15) (4 fresa 5 20) (5 agua 5 25) (1 candelabro 6 6) (2 sofa 6 12) (3 tela 6 18) (4 sol 6 24) (5 frasco 6 30) (1 cuchillo 7 7) (2 ciruela 7 14) (3 cable 7 21) (4 globos 7 28) (5 cartel 7 35) (1 gancho 8 8) (2 bicicleta 8 16) (3 caja 0 24) (4 taza 8 32) (5 espejo 8 40) (1 sandia 9 9) (2 cartera 9 18) (3 estante 9 27) (4 sarten 9 36) (5 calabaza 9 45)) ((carrusel:carrusel4.txthace falta de) (1 garbanzo 8 8) (2 naranja 8 16) (3 lima 8 24) (4 freidora 8 32) (5 pila 8 40) (1 cereal 9 9) (2 repollo 9 18) (3 botiquin 9 27) (4 taza 9 36) (5 rebanadora 9 45) (1 alto 1 1) (2 copa 1 2) (3 tarta 1 3) (4 melon 1 4) (5 piramide 1 5) (1 lechuga 2 2) (2 aspiradora 2 4) (3 castano 2 6) (4 peluche 2 8) (5 ajo 2 10) (1 granada 3 3) (2 cuentos 3 6) (3 platano 0 9) (4 aire 3 12) (5 estante 3 15) (1 candela 4 4) (2 repollo 4 8) (3 conejito 4 12) (4 auriculares 4 16) (5 castano 4 20) (1 libro 5 5) (2 cortinas 5 10) (3 herramientas 5 15) (4 auriculares 5 20) (5 camara 5 25) (1 frutero 6 6) (2 plato 6 12) (3 zanahoria 6 18) (4 zapato 6 24) (5 paracaidas 6 30) (1 leche 7 7) (2 frutero 7 14) (4 gorra 7 28) (5 tetera 7 35)) ((carrusel:carrusel5.txthace falta de) (4 pastel 0 88) (1 brocoli 1 1) (2 medias 1 2) (3 ciruela 0 3) (4 cortina 1 4) (5 pila 1 5) (1 cable 2 2) (2 trapeador 2 4) (3 candela 2 6) (4 tela 2 8) (5 calabaza 2 10) (1 coliflor 3 3) (2 parrilla 3 6) (3 lata 3 9) (4 tostadora 3 12) (5 metal 3 15) (1 pepino 4 4) (2 vino 4 8) (3 calendario 4 12) (4 espejo 4 16) (5 lapiz 4 20) (1 calabaza 5 5) (2 cereza 5 10) (3 avena 5 15) (4 azul 5 20) (5 tarta 5 25) (1 peluche 6 6) (2 licuadora 6 12) (3 madera 6 18) (4 bomba 6 24) (5 maiz 6 30) (1 dado 7 7) (2 sal 7 14) (3 copa 7 21) (4 lata 7 28) (5 cable 7 35) (1 candado 8 8) (2 suave 8 16) (3 hervidor 8 24) (4 cuchara 8 32) (5 miel 8 40) (1 nieve 9 9) (3 piano 9 27) (4 bicicleta 9 36) (5 calabacin 9 45) (2 pastel 0 32) (4 pala 0 64) (3 pastel 0 54)) ((carrusel:carrusel6.txthace falta de) (1 tarta 0 1) (2 tenedor 1 2) (3 lima 1 3) (4 calendario 1 4) (5 cuchillo 1 5) (1 leche 2 2) (2 reloj 2 4) (3 cepillo 2 6) (4 plancha 2 8) (5 ramo 2 10) (1 suelo 3 3) (2 espinaca 3 6) (3 rabanito 3 9) (4 batidora 3 12) (5 vino 3 15) (1 pepino 4 4) (2 mesa 4 8) (3 crema 4 12) (4 despertador 4 16) (5 fresa 4 20) (1 cortina 5 5) (2 calentador 5 10) (3 techo 5 15) (4 sello 5 20) (5 microondas 5 25) (1 monedero 6 6) (2 lenteja 6 12) (3 tierra 6 18) (4 gorro 6 24) (5 tierra 6 30) (1 calculadora 7 7) (2 navaja 7 14) (3 guisante 7 21) (4 relieve 7 28) (5 pintura 7 35) (1 pimiento 8 8) (2 lata 8 16) (3 cuna 8 24) (4 nina 8 32) (5 maquillaje 8 40) (1 herramientas 9 9) (2 chocolate 9 18) (3 paracaidas 9 27) (4 higo 9 36) (5 monedero 9 45)) ((carrusel:carrusel7.txthace falta de) (1 secadora 0 1) (2 naranja 1 2) (3 bicicleta 1 3) (4 nuez 1 4) (5 pala 1 5) (1 tela 2 2) (2 botella 2 4) (3 rebanadora 2 6) (4 membrillo 2 8) (5 maquina 2 10) (1 pimienton 3 3) (2 vino 3 6) (3 suelo 3 9) (4 corbata 3 12) (5 coliflor 3 15) (1 espejo 4 4) (2 juego 4 8) (3 lata 4 12) (4 aparato 4 16) (5 microondas 4 20) (1 yogur 5 5) (2 aparato 5 10) (3 castillo 5 15) (4 silla 5 20) (5 hoja 5 25) (1 auriculares 6 6) (2 lata 6 12) (3 cartera 6 18) (4 aire 6 24) (5 vajilla 6 30) (1 auriculares 7 7) (2 relieve 7 14) (3 calabaza 7 21) (4 pala 7 28) (5 marcapaginas 7 35) (1 helado 8 8) (2 hongo 8 16) (3 alto 8 24) (4 kiwi 8 32) (5 pepino 8 40) (1 zanahoria 9 9) (2 caja 9 18) (3 soja 9 27) (4 lima 9 36) (5 parlante 9 45)) ((carrusel:carrusel8.txthace falta de) (1 granada 0 1) (2 tostadora 1 2) (3 pan 1 3) (4 leche 1 4) (5 luz 1 5) (1 parlante 2 2) (2 sal 2 4) (3 abrelatas 2 6) (4 alto 2 8) (5 mango 2 10) (1 sal 3 3) (2 hojaldre 3 6) (3 huevo 3 9) (4 plancha 3 12) (5 tarta 3 15) (1 celular 4 4) (2 pan 4 8) (3 lima 4 12) (4 alcancia 4 16) (5 verde 4 20) (1 tapadera 5 5) (2 leche 5 10) (3 pan 5 15) (4 refresco 5 20) (5 brujula 5 25) (1 licuadora 6 6) (2 techo 6 12) (3 acelga 6 18) (4 cafetera 6 24) (5 haba 6 30) (1 arroz 7 7) (2 sarten 7 14) (3 helado 7 21) (4 plancha 7 28) (5 radiador 7 35) (1 toallitas 8 8) (2 pluma 8 16) (3 crema 8 24) (4 taza 8 32) (5 peine 8 40) (1 tapadera 9 9) (2 dado 9 18) (3 bocina 9 27) (4 cafetera 9 36) (5 aspiradora 9 45)) ((carrusel:carrusel9.txthace falta de) (1 cortina 0 1) (2 candado 1 2) (3 cereza 1 3) (4 plato 1 4) (5 naranja 1 5) (1 bajo 2 2) (2 espejo 2 4) (3 espinaca 2 6) (4 escoba 2 8) (5 microfono 2 10) (1 panuelo 3 3) (2 plato 3 6) (3 abrelatas 3 9) (4 cocina 3 12) (5 maquina 3 15) (1 despertador 4 4) (2 kiwi 4 8) (3 licuadora 4 12) (4 reloj 4 16) (5 castillo 4 20) (1 rojo 5 5) (2 nieve 5 10) (3 radiador 5 15) (4 dado 5 20) (5 naranja 5 25) (1 herramientas 6 6) (2 peine 6 12) (3 frambuesa 6 18) (4 rabanito 6 24) (5 dado 6 30) (1 pasta 7 7) (2 radiador 7 14) (3 tenedor 7 21) (4 lenteja 7 28) (5 esponja 7 35) (1 cortina 0 8) (2 pastel 8 16) (3 ventana 8 24) (4 refresco 8 32) (5 ventilador 8 40) (1 corbata 9 9) (2 microfono 9 18) (3 esponja 9 27) (4 sarten 9 36) (5 laptop 9 45) (3 cortina 0 42)) ((carrusel:carrusel10.txthace falta de) (1 lenteja 0 1) (2 balon 1 2) (3 ciruela 1 3) (4 verde 1 4) (5 microondas 1 5) (1 pila 2 2) (2 melon 2 4) (3 lima 2 6) (4 secadora 2 8) (5 piedra 2 10) (1 celular 3 3) (2 kiwi 3 6) (3 tapadera 3 9) (4 tostadora 3 12) (5 limon 3 15) (1 limon 4 4) (2 aspiradora 4 8) (3 pequeno 4 12) (4 mujer 4 16) (5 ensaladera 4 20) (1 isla 5 5) (2 chimenea 5 10) (3 kiwi 5 15) (4 achicoria 5 20) (5 taza 5 25) (1 sarten 6 6) (2 tomate 6 12) (3 crema 6 18) (4 plancha 6 24) (5 libreta 6 30) (1 tela 7 7) (2 cuchara 7 14) (3 mesita 7 21) (4 zanahoria 7 28) (5 silla 7 35) (1 apio 8 8) (2 arandano 8 16) (3 camiseta 8 24) (4 escoba 8 32) (5 pimiento 8 40) (1 lima 9 9) (2 agua 9 18) (3 cuchara 9 27) (4 esponja 9 36) (5 cafetera 9 45)) ((carrusel:carrusel11.txthace falta de) (1 albaricoque 0 1) (2 pera 1 2) (3 avena 1 3) (4 almohada 1 4) (5 almohada 1 5) (1 mango 2 2) (2 conejito 2 4) (3 cortinas 2 6) (4 teclado 2 8) (5 parlante 2 10) (1 cuchillo 3 3) (2 alto 3 6) (3 suelo 3 9) (4 pepino 3 12) (5 telefono 3 15) (1 foto 4 4) (2 azul 4 8) (3 escoba 4 12) (4 zapato 4 16) (5 plancha 4 20) (1 columpio 5 5) (2 cinta 5 10) (3 radiador 5 15) (4 ensaladera 5 20) (5 pera 5 25) (1 cuchillo 6 6) (2 guisante 6 12) (3 techo 6 18) (4 estufa 6 24) (5 carroza 6 30) (1 cafetera 7 7) (2 galleta 7 14) (3 mantequilla 7 21) (4 calendario 7 28) (5 chimenea 7 35) (1 mantequilla 8 8) (2 judia 8 16) (3 licuadora 8 24) (4 cable 8 32) (5 batidora 8 40) (1 fuente 9 9) (2 lima 9 18) (3 semilla 9 27) (4 sol 9 36) (5 pintalabios 9 45)) ((carrusel:carrusel12.txthace falta de) (1 gancho 0 1) (2 champinon 1 2) (3 blanco 1 3) (4 tenedor 1 4) (5 globo 1 5) (1 tetera 2 2) (2 calabaza 2 4) (3 almohada 2 6) (4 cepillo 2 8) (5 melon 2 10) (1 blanco 3 3) (2 ventana 3 6) (3 calabacin 3 9) (4 chicle 3 12) (5 telefono 3 15) (1 cubiertos 4 4) (2 paraguas 4 8) (3 camiseta 4 12) (4 control 4 16) (5 galleta 4 20) (1 calabaza 5 5) (2 mapa 5 10) (3 ensaladera 5 15) (4 frutero 5 20) (5 pizza 5 25) (1 tarta 6 6) (2 pan 6 12) (3 papaya 6 18) (4 gancho 0 24) (5 caramelo 6 30) (1 secadora 7 7) (2 leche 7 14) (3 globos 7 21) (4 batidora 7 28) (5 apio 7 35) (1 crema 8 8) (2 secadora 8 16) (3 blanco 8 24) (4 pera 8 32) (5 plancha 8 40) (1 aspiradora 9 9) (2 almohada 9 18) (3 cafetera 9 27) (4 helicoptero 9 36) (5 crema 9 45)) ((carrusel:carrusel13.txthace falta de) (1 bocina 0 1) (2 cereza 1 2) (3 mora 1 3) (4 lenteja 1 4) (5 auriculares 1 5) (1 florero 2 2) (2 bateria 2 4) (3 pepino 2 6) (4 plato 2 8) (5 semilla 2 10) (1 cuchara 3 3) (2 hongo 3 6) (3 acelga 3 9) (4 control 3 12) (5 aspiradora 3 15) (1 frutero 4 4) (3 florero 4 12) (4 bizcocho 4 16) (5 higo 4 20) (1 mueble 5 5) (2 microfono 5 10) (3 berenjena 5 15) (4 maquillaje 5 20) (5 pistola 5 25) (1 batidora 6 6) (2 espinaca 6 12) (3 columpio 6 18) (4 sandia 6 24) (5 mora 6 30) (2 huevo 7 14) (3 calabacin 7 21) (4 callejon 7 28) (5 bizcocho 7 35) (1 madera 8 8) (2 calculadora 8 16) (3 pastel 8 24) (4 caramelo 8 32) (5 bateria 8 40) (1 huevo 9 9) (2 cebada 9 18) (3 sol 9 27) (4 manzana 9 36) (5 tortuga 9 45)) ((carrusel:carrusel14.txthace falta de) (1 banco 0 1) (2 sal 1 2) (3 mantel 1 3) (4 ciruela 1 4) (5 piano 1 5) (1 brujula 2 2) (2 calabaza 2 4) (3 techo 2 6) (4 corbata 2 8) (5 helado 2 10) (1 miel 3 3) (2 conejito 3 6) (3 auriculares 3 9) (4 placard 3 12) (5 fuente 3 15) (1 paraguas 4 4) (2 albaricoque 4 8) (3 semaforo 4 12) (4 cremallera 4 16) (5 moneda 4 20) (1 ajo 5 5) (2 sandia 5 10) (3 escalera 5 15) (4 judia 5 20) (5 brujula 5 25) (1 tarta 6 6) (2 relieve 6 12) (3 lata 6 18) (4 lata 6 24) (5 candado 6 30) (1 hombre 7 7) (2 calle 7 14) (3 castano 7 21) (4 ladrillo 7 28) (5 ardilla 7 35) (1 pomada 8 8) (2 taza 8 16) (3 conejito 8 24) (4 pimienta 8 32) (5 bollo 8 40) (1 telefono 9 9) (2 pestaña 9 18) (3 rastrillo 9 27) (4 ensaladera 9 36) (5 cucharilla 9 45)) ((carrusel:carrusel15.txthace falta de) (1 piña 0 1) (2 amigo 1 2) (3 cereza 1 3) (4 aparato 1 4) (5 reloj 1 5) (1 pimiento 2 2) (2 plato 2 4) (3 miel 2 6) (4 manzana 2 8) (5 llave 2 10) (1 yogur 3 3) (2 hoja 3 6) (3 hombre 3 9) (4 servilleta 3 12) (5 pared 3 15) (1 esponja 4 4) (2 escoba 4 8) (3 pepino 4 12) (4 caramelo 4 16) (5 suave 4 20) (1 azul 5 5) (2 pimiento 5 10) (3 cebada 5 15) (4 lima 5 20) (5 portarretratos 5 25) (1 avena 6 6) (2 botella 6 12) (3 cafetera 6 18) (4 fresa 6 24) (5 pepino 6 30) (1 tetera 7 7) (2 maiz 7 14) (3 refresco 7 21) (4 hombre 7 28) (5 pimienta 7 35) (1 nieve 8 8) (2 pintura 8 16) (3 estante 8 24) (4 banco 8 32) (5 mesita 8 40) (1 pequeno 9 9) (2 batidora 9 18) (3 relieve 9 27) (4 plancha 9 36) (5 bomba 9 45)) ((carrusel:carrusel16.txthace falta de) (1 peluche 0 1) (2 portatil 1 2) (3 natillas 1 3) (4 banco 1 4) (5 peine 1 5) (1 pastel 2 2) (2 blanco 2 4) (3 acelga 2 6) (4 aceituna 2 8) (5 pestaña 2 10) (1 portatil 3 3) (2 sillon 3 6) (3 candelabro 3 9) (4 judia 3 12) (5 lima 3 15) (1 herramientas 4 4) (2 albaricoque 4 8) (3 piano 4 12) (4 leche 4 16) (5 hongo 4 20) (1 cartas 5 5) (2 calabacin 5 10) (3 madera 5 15) (4 candado 5 20) (5 tierra 5 25) (1 pepino 6 6) (2 hilo 6 12) (3 juego 6 18) (4 cuchara 6 24) (5 bocina 6 30) (1 pinceles 7 7) (2 sofa 7 14) (3 pepino 7 21) (4 gorra 7 28) (5 dulce 7 35) (1 pinceles 8 8) (2 amigo 8 16) (3 nino 8 24) (4 fuego 8 32) (5 mango 8 40) (1 sandia 9 9) (2 tableta 9 18) (3 casco 9 27) (4 cebolla 9 36) (5 amigo 9 45)) ((carrusel:carrusel17.txthace falta de) (1 fuego 0 1) (2 aire 1 2) (3 sillon 1 3) (4 verde 1 4) (5 albaricoque 1 5) (1 mango 2 2) (2 duro 2 4) (3 cielo 2 6) (4 haba 2 8) (5 globos 2 10) (1 pequeno 3 3) (2 tierra 3 6) (3 cuchillo 3 9) (4 cereza 3 12) (5 fuente 3 15) (1 microondas 4 4) (2 piramide 4 8) (3 ciruela 4 12) (4 higo 4 16) (5 espinaca 4 20) (1 ajo 5 5) (2 avena 5 10) (3 pera 5 15) (4 cuadro 5 20) (5 calabaza 5 25) (1 hombre 6 6) (2 frambuesa 6 12) (3 vino 6 18) (4 portarretratos 6 24) (5 llave 6 30) (1 cuchara 7 7) (2 cuchara 7 14) (3 estrecho 7 21) (4 piramide 7 28) (5 ordenador 7 35) (1 nevera 8 8) (2 horno 8 16) (3 puerta 8 24) (4 tableta 8 32) (5 plancha 8 40) (1 sandia 9 9) (2 champu 9 18) (3 higo 9 27) (4 piedra 9 36) (5 brujula 9 45)) ((carrusel:carrusel18.txthace falta de) (1 ordenador 0 1) (2 mesita 1 2) (3 acelga 1 3) (4 mantequilla 1 4) (5 placard 1 5) (1 maquina 2 2) (2 chicle 2 4) (3 flor 2 6) (4 balon 2 8) (5 zapato 2 10) (1 hoja 3 3) (2 zapato 3 6) (3 galleta 3 9) (4 flor 3 12) (5 cerca 3 15) (1 semilla 4 4) (2 pepino 4 8) (3 mango 4 12) (4 panuelo 4 16) (5 taza 4 20) (1 lenteja 5 5) (2 bateria 5 10) (3 escalera 5 15) (4 melon 5 20) (5 patata 5 25) (1 pimiento 6 6) (2 toalla 6 12) (3 mapa 6 18) (4 pomada 6 24) (5 hombre 6 30) (1 bicicleta 7 7) (2 peine 7 14) (3 copa 7 21) (4 centeno 7 28) (5 cuentos 7 35) (1 papaya 8 8) (2 madera 8 16) (3 faro 8 24) (4 suave 8 32) (5 amarillo 8 40) (1 suave 9 9) (2 leche 9 18) (3 bizcocho 9 27) (4 queso 9 36) (5 sal 9 45)) ((carrusel:carrusel19.txthace falta de) (1 sillon 0 1) (2 camara 1 2) (3 cuna 1 3) (4 pared 1 4) (5 queso 1 5) (1 taza 2 2) (2 calendario 2 4) (3 pepino 2 6) (4 plato 2 8) (5 chimenea 2 10) (1 pistola 3 3) (2 melon 3 6) (3 calculadora 3 9) (4 natillas 3 12) (5 tierra 3 15) (1 azucar 4 4) (2 mapa 4 8) (3 calentador 4 12) (4 mora 4 16) (5 destornillador 4 20) (1 granada 5 5) (2 leche 5 10) (3 cepillo 5 15) (4 florero 5 20) (5 pinceles 5 25) (1 copa 6 6) (2 crema 6 12) (3 helado 6 18) (4 garbanzo 6 24) (5 muneca 6 30) (1 brocoli 7 7) (2 candado 7 14) (3 auriculares 7 21) (4 piedra 7 28) (5 panuelo 7 35) (1 tableta 8 8) (2 frambuesa 8 16) (3 almohada 8 24) (4 licuadora 8 32) (5 auriculares 8 40) (1 pajaro 9 9) (2 cebada 9 18) (3 ciruela 9 27) (4 gorro 9 36) (5 calabaza 9 45)) ((carrusel:carrusel20.txthace falta de) (1 tapadera 0 1) (2 tornillo 1 2) (3 chocolate 1 3) (4 placard 1 4) (5 cuchara 1 5) (1 aceituna 2 2) (2 ciruela 2 4) (3 secadora 2 6) (4 espinaca 2 8) (5 amarillo 2 10) (1 cereza 3 3) (2 frutero 3 6) (3 coliflor 3 9) (4 abrelatas 3 12) (5 champinon 3 15) (1 radiador 4 4) (2 paraguas 4 8) (3 ciudad 4 12) (4 corbata 4 16) (5 cereza 4 20) (1 sandia 5 5) (2 paracaidas 5 10) (3 estrecho 5 15) (4 tetera 5 20) (5 gorra 5 25) (1 pan 6 6) (2 trapeador 6 12) (3 refresco 6 18) (4 cortinas 6 24) (5 platano 6 30) (1 cebada 7 7) (2 hojaldre 7 14) (3 secadora 7 21) (4 almohada 7 28) (5 caja 7 35) (1 bicicleta 8 8) (2 pepino 8 16) (3 peluche 8 24) (4 cocina 8 32) (5 florero 8 40) (2 rompecabezas 9 18) (3 servilleta 9 27) (4 cafetera 9 36) (5 parlante 9 45) (5 tapadera 0 60)) ((carrusel:carrusel21.txthace falta de) (1 berenjena 0 1) (2 pimienta 1 2) (3 secadora 1 3) (4 cereal 1 4) (5 labial 1 5) (1 colchon 2 2) (2 granada 2 4) (3 guisante 2 6) (4 calabacin 2 8) (5 alto 2 10) (1 muneca 3 3) (2 rabanito 3 6) (3 tijera 3 9) (4 botella 3 12) (5 chocolate 3 15) (1 pimienton 4 4) (2 cortinas 4 8) (3 tortuga 4 12) (4 bolso 4 16) (5 uva 4 20) (1 palillos 5 5) (2 sandia 5 10) (3 globo 5 15) (4 patata 5 20) (5 leche 5 25) (1 ventilador 6 6) (2 ancho 6 12) (3 plancha 6 18) (4 flor 6 24) (5 control 6 30) (1 sillon 7 7) (2 ardilla 7 14) (3 duro 7 21) (4 lavadora 7 28) (5 bocina 7 35) (1 peluche 8 8) (2 calendario 8 16) (3 ensaladera 8 24) (4 pasta 8 32) (5 champu 8 40) (1 manicura 9 9) (2 vino 9 18) (3 aparato 9 27) (4 pomada 9 36) (5 secadora 9 45)) ((carrusel:carrusel22.txthace falta de) (1 espejo 0 1) (2 cerca 1 2) (3 dinosaurio 1 3) (4 tomate 1 4) (5 alto 1 5) (1 tarta 2 2) (2 cereza 2 4) (3 colchon 2 6) (4 coliflor 2 8) (5 semaforo 2 10) (1 botella 3 3) (2 aparato 3 6) (3 servilleta 3 9) (4 cebolla 3 12) (5 tarta 3 15) (1 cuchara 4 4) (2 huevo 4 8) (3 florero 4 12) (4 melon 4 16) (5 chicle 4 20) (1 brocoli 5 5) (2 fuente 5 10) (3 ciudad 5 15) (4 granada 5 20) (5 calendario 5 25) (1 pajaro 6 6) (2 cuchillo 6 12) (3 gancho 6 18) (4 cigarrillo 6 24) (5 camion 6 30) (1 batidora 7 7) (2 manzana 7 14) (3 piña 7 21) (4 calabacin 7 28) (5 vino 7 35) (1 arroz 8 8) (2 tortuga 8 16) (3 tetera 8 24) (4 audifonos 8 32) (5 vaca 8 40) (1 semilla 9 9) (2 mango 9 18) (3 marcapaginas 9 27) (4 mango 9 36) (5 grande 9 45)) ((carrusel:carrusel23.txthace falta de) (1 caramelo 0 1) (2 rebanadora 1 2) (3 chocolate 1 3) (4 pepino 1 4) (5 sol 1 5) (1 cepo 2 2) (2 manicura 2 4) (3 pastel 2 6) (4 calle 2 8) (5 gris 2 10) (1 cuchillo 3 3) (2 calabaza 3 6) (3 pestaña 3 9) (4 garbanzo 3 12) (5 calentador 3 15) (1 mante 4 4) (2 tornillo 4 8) (3 tarta 4 12) (4 cuna 4 16) (5 plato 4 20) (1 higo 5 5) (2 alto 5 10) (3 parrilla 5 15) (4 fuente 5 20) (5 tijera 5 25) (1 lindo 6 6) (2 carroza 6 12) (3 botella 6 18) (4 melon 6 24) (5 hilo 6 30) (1 helicoptero 7 7) (2 toalla 7 14) (3 columpio 7 21) (4 cafetera 7 28) (5 escalera 7 35) (1 despertador 8 8) (2 hoja 8 16) (3 ladrillo 8 24) (4 uva 8 32) (5 ajo 8 40) (1 secadora 9 9) (2 portarretratos 9 18) (3 chicle 9 27) (4 libro 9 36) (5 radiador 9 45)) ((carrusel:carrusel24.txthace falta de) (1 brocoli 0 1) (2 camara 1 2) (3 cinta 1 3) (4 chocolate 1 4) (5 radiador 1 5) (1 cable 2 2) (2 candela 2 4) (3 zapato 2 6) (4 berenjena 2 8) (5 lenteja 2 10) (1 candado 3 3) (2 frasco 3 6) (3 relieve 3 9) (4 helado 3 12) (5 esponja 3 15) (1 sol 4 4) (2 apio 4 8) (3 mesita 4 12) (4 galleta 4 16) (5 dado 4 20) (1 aparato 5 5) (2 semilla 5 10) (3 parlante 5 15) (4 sandia 5 20) (5 candelabro 5 25) (1 rojo 6 6) (2 pan 6 12) (3 sarten 6 18) (4 florero 6 24) (5 cafetera 6 30) (1 cazuela 7 7) (2 secadora 7 14) (3 rompecabezas 7 21) (4 haba 7 28) (5 lima 7 35) (1 servilleta 8 8) (2 candela 8 16) (3 destornillador 8 24) (4 limon 8 32) (5 cubiertos 8 40) (1 alfombra 9 9) (2 toalla 9 18) (3 pastel 9 27) (4 higo 9 36) (5 licuadora 9 45) (5 brocoli 0 85)) ((carrusel:carrusel25.txthace falta de) (1 espejo 0 1) (2 acelga 1 2) (3 placard 1 3) (4 esponja 1 4) (5 lechuga 1 5) (1 achicoria 2 2) (2 servilleta 2 4) (3 cafetera 2 6) (4 gorra 2 8) (5 ardilla 2 10) (1 faro 3 3) (2 cuna 3 6) (3 cucharilla 3 9) (4 marcapaginas 3 12) (5 platos 3 15) (1 candelabro 4 4) (2 bomba 4 8) (3 puerta 4 12) (4 cuchillo 4 16) (5 maquina 4 20) (1 yogur 5 5) (2 refresco 5 10) (3 castillo 5 15) (4 cigarrillo 5 20) (5 limon 5 25) (1 pizza 6 6) (2 sandalias 6 12) (3 estrecho 6 18) (4 cuchillo 6 24) (5 puerta 6 30) (1 horno 7 7) (2 cucharilla 7 14) (3 gancho 7 21) (4 faro 7 28) (5 navaja 7 35) (1 aceituna 8 8) (2 cuchara 8 16) (3 pintura 8 24) (4 mango 8 32) (5 juguete 8 40) (1 cuchara 9 9) (2 dinosaurio 9 18) (3 carroza 9 27) (4 microfono 9 36) (5 cuentos 9 45)) ((carrusel:carrusel26.txthace falta de) (1 manzana 0 1) (2 limon 1 2) (3 portarretratos 1 3) (4 uva 1 4) (5 pastel 1 5) (1 cafetera 2 2) (2 cuna 2 4) (3 fresa 2 6) (4 gancho 2 8) (5 abrelatas 2 10) (1 refresco 3 3) (2 chocolate 3 6) (3 bizcocho 3 9) (4 cinta 3 12) (5 abrelatas 3 15) (1 kiwi 4 4) (2 paracaidas 4 8) (3 cepo 4 12) (4 almohada 4 16) (5 candado 4 20) (1 leche 5 5) (2 gris 5 10) (3 sal 5 15) (4 arbol 5 20) (5 tarta 5 25) (1 almohadon 6 6) (2 blanco 6 12) (3 manicura 6 18) (4 uva 6 24) (5 lapiz 6 30) (1 ventana 7 7) (2 tapadera 7 14) (3 tarta 7 21) (4 batidora 7 28) (5 mora 7 35) (1 tierra 8 8) (2 gorro 8 16) (3 mantequilla 8 24) (4 silla 8 32) (5 pera 8 40) (1 uva 9 9) (2 melon 9 18) (3 mantel 9 27) (4 servilleta 9 36) (5 tornillo 9 45)) ((carrusel:carrusel27.txthace falta de) (1 aceituna 0 1) (2 melon 1 2) (3 fuego 1 3) (4 licuadora 1 4) (5 almohada 1 5) (1 cuchara 2 2) (2 pimienta 2 4) (3 cuchillo 2 6) (4 chocolate 2 8) (5 lavadora 2 10) (1 fuente 3 3) (2 calabaza 3 6) (3 isla 3 9) (4 castano 3 12) (5 frambuesa 3 15) (1 nuez 4 4) (2 olla 4 8) (3 abrelatas 4 12) (4 mesita 4 16) (5 arandano 4 20) (1 tarta 5 5) (2 sofa 5 10) (3 limon 5 15) (4 tetera 5 20) (5 judia 5 25) (1 relieve 6 6) (2 batidora 6 12) (3 champinon 6 18) (4 flor 6 24) (5 relieve 6 30) (1 batidora 7 7) (2 bajo 7 14) (3 botella 7 21) (4 fuente 7 28) (5 escalera 7 35) (1 verde 8 8) (2 tarta 8 16) (3 botiquin 8 24) (4 bateria 8 32) (5 vaca 8 40) (1 juguete 9 9) (2 apio 9 18) (3 ladrillo 9 27) (4 piña 9 36) (5 arroz 9 45)) ((carrusel:carrusel28.txthace falta de) (1 naranja 0 1) (2 portatil 1 2) (3 galleta 1 3) (4 miel 1 4) (5 cuentos 1 5) (1 cereal 2 2) (2 auriculares 2 4) (3 rompecabezas 2 6) (4 cuchara 2 8) (5 mante 2 10) (1 mantequilla 3 3) (2 radiador 3 6) (3 botella 3 9) (4 patata 3 12) (5 fresa 3 15) (1 vaca 4 4) (2 servilleta 4 8) (3 gancho 4 12) (4 tazon 4 16) (5 nina 4 20) (1 colchon 5 5) (2 rabanito 5 10) (3 chimenea 5 15) (4 paraguas 5 20) (5 manzana 5 25) (1 champinon 6 6) (2 berenjena 6 12) (3 zanahoria 6 18) (4 sarten 6 24) (5 plátano 6 30) (1 radiador 7 7) (2 bicicleta 7 14) (3 calendario 7 21) (4 batidora 7 28) (5 trapeador 7 35) (1 cartel 8 8) (2 ajo 8 16) (3 alcancia 8 24) (4 abrelatas 8 32) (5 cuchillo 8 40) (1 piano 9 9) (2 tenedor 9 18) (3 castano 9 27) (4 pimiento 9 36) (5 helado 9 45) (3 naranja 0 36)) ((carrusel:carrusel29.txthace falta de) (1 naranja 0 1) (2 marioneta 1 2) (3 alto 1 3) (4 piña 1 4) (5 colchon 1 5) (1 labial 2 2) (2 bomba 2 4) (3 monedero 2 6) (4 vino 2 8) (5 silla 2 10) (1 microondas 3 3) (2 garbanzo 3 6) (3 pala 3 9) (4 pimienta 3 12) (5 cortina 3 15) (1 pantallas 4 4) (2 techo 4 8) (3 plato 4 12) (4 abrelatas 4 16) (5 nieve 4 20) (1 esparrago 5 5) (2 frutero 5 10) (3 metal 5 15) (4 pan 5 20) (5 cielo 5 25) (1 piedra 6 6) (2 palillos 6 12) (3 natillas 6 18) (4 grande 6 24) (5 escoba 6 30) (1 soja 7 7) (2 piano 7 14) (3 gorro 7 21) (4 exprimidor 7 28) (5 hombre 7 35) (1 mesa 8 8) (2 tela 8 16) (3 peluche 8 24) (4 duro 8 32) (5 pintura 8 40) (1 tortuga 9 9) (2 cebada 9 18) (3 yogur 9 27) (4 tela 9 36) (5 tetera 9 45)) ((carrusel:carrusel30.txthace falta de) (1 chocolate 0 1) (2 champinon 1 2) (3 huevo 1 3) (4 candelabro 1 4) (5 candela 1 5) (1 lapiz 2 2) (2 frutero 2 4) (3 platos 2 6) (4 bocina 2 8) (5 trigo 2 10) (1 peine 3 3) (2 brujula 3 6) (3 ciudad 3 9) (4 pimienta 3 12) (5 plancha 3 15) (1 helado 4 4) (2 soja 4 8) (3 foto 4 12) (4 sandalias 4 16) (5 azul 4 20) (1 melon 5 5) (2 rastrillo 5 10) (3 licuadora 5 15) (4 marco 5 20) (5 lapiz 5 25) (1 pomada 6 6) (2 coliflor 6 12) (3 pepino 6 18) (4 albaricoque 6 24) (5 escoba 6 30) (1 hongo 7 7) (2 navaja 7 14) (3 bocina 7 21) (4 sillon 7 28) (5 platano 7 35) (1 botiquin 8 8) (2 frambuesa 8 16) (3 higo 8 24) (4 plato 8 32) (5 pinceles 8 40) (1 apio 9 9) (2 moneda 9 18) (3 judia 9 27) (4 moneda 9 36) (5 cable 9 45) (4 chocolate 0 60) (5 chocolate 0 90)) ((carrusel:carrusel31.txthace falta de) (1 paracaidas 0 1) (2 calabaza 1 2) (3 faro 1 3) (4 pizza 1 4) (5 sarten 1 5) (1 coliflor 2 2) (2 galleta 2 4) (3 hilo 2 6) (4 higo 2 8) (5 tela 2 10) (1 techo 3 3) (2 champu 3 6) (3 manzana 3 9) (4 candado 3 12) (5 estufa 3 15) (1 mora 4 4) (2 cartera 4 8) (4 mango 4 16) (5 cebolla 4 20) (1 higo 5 5) (2 refrigerador 5 10) (3 batidora 5 15) (4 casco 5 20) (5 plato 5 25) (1 pequeno 6 6) (2 cereal 6 12) (3 alto 6 18) (4 gancho 6 24) (5 plancha 6 30) (1 piña 7 7) (2 pimienton 7 14) (3 papaya 7 21) (4 papaya 7 28) (5 flor 7 35) (1 cocina 8 8) (2 flamenco 8 16) (3 pasta 8 24) (4 parrilla 8 32) (5 aparato 8 40) (1 caramelo 9 9) (2 mujer 9 18) (3 espinaca 9 27) (4 esparrago 9 36) (5 pasta 9 45)) ((carrusel:carrusel32.txthace falta de) (1 berenjena 0 1) (2 libreta 1 2) (3 abrelatas 1 3) (4 exprimidor 1 4) (5 platano 1 5) (1 herramientas 2 2) (2 copa 2 4) (3 mujer 2 6) (4 tableta 2 8) (5 cortina 2 10) (1 foto 3 3) (2 papaya 3 6) (3 nevera 3 9) (4 ardilla 3 12) (5 servilleta 3 15) (1 caramelo 4 4) (2 espejo 4 8) (3 cepo 4 12) (4 candado 4 16) (5 monedero 4 20) (1 melon 5 5) (2 piña 5 10) (3 pera 5 15) (4 marcapaginas 5 20) (5 marcapaginas 5 25) (1 pan 6 6) (2 fresa 6 12) (3 natillas 6 18) (4 crema 6 24) (5 audifonos 6 30) (1 mango 7 7) (2 guisante 7 14) (3 espejo 7 21) (4 abrelatas 7 28) (5 berenjena 0 35) (1 gancho 8 8) (2 nieve 8 16) (3 pimienton 8 24) (4 amigo 8 32) (5 cremallera 8 40) (1 almohada 9 9) (2 aceituna 9 18) (3 reloj 9 27) (4 llave 9 36) (5 tierra 9 45)) ((carrusel:carrusel33.txthace falta de) (1 radiador 0 1) (2 castillo 1 2) (3 horno 1 3) (4 plato 1 4) (5 uva 1 5) (1 bajo 2 2) (2 telefono 2 4) (3 plato 2 6) (4 tornillo 2 8) (5 tenedor 2 10) (1 calendario 3 3) (2 nieve 3 6) (3 cuchillo 3 9) (4 haba 3 12) (5 cereza 3 15) (1 piña 4 4) (2 caramelo 4 8) (3 amarillo 4 12) (4 candela 4 16) (5 espejo 4 20) (1 platos 5 5) (2 secadora 5 10) (3 crema 5 15) (4 chicle 5 20) (5 pimiento 5 25) (1 candela 6 6) (2 pan 6 12) (3 plancha 6 18) (4 rabanito 6 24) (5 esparrago 6 30) (1 reloj 7 7) (2 calabacin 7 14) (3 maquina 7 21) (4 trapeador 7 28) (5 refrigerador 7 35) (1 camion 8 8) (2 libro 8 16) (3 semilla 8 24) (4 cepo 8 32) (5 rompecabezas 8 40) (1 llave 9 9) (2 panuelo 9 18) (3 cortina 9 27) (4 piedra 9 36) (5 plato 9 45)) ((carrusel:carrusel34.txthace falta de) (1 champinon 0 1) (2 helicoptero 1 2) (3 almohada 1 3) (4 apio 1 4) (5 papaya 1 5) (1 maquillaje 2 2) (2 olla 2 4) (3 cafetera 2 6) (4 manzana 2 8) (5 calabaza 2 10) (1 helado 3 3) (2 paracaidas 3 6) (3 cuchara 3 9) (4 dinosaurio 3 12) (5 ladrillo 3 15) (1 frambuesa 4 4) (2 patines 4 8) (3 lapiz 4 12) (4 cebolla 4 16) (5 hojaldre 4 20) (1 pimiento 5 5) (2 mujer 5 10) (3 pasta 5 15) (4 batidora 5 20) (5 sandalias 5 25) (1 olla 6 6) (2 semilla 6 12) (3 mesa 6 18) (4 cielo 6 24) (5 madera 6 30) (1 lapiz 7 7) (2 ardilla 7 14) (3 servilleta 7 21) (4 semilla 7 28) (5 brocoli 7 35) (1 fuego 8 8) (2 crema 8 16) (3 flores 8 24) (4 frambuesa 8 32) (5 batidora 8 40) (1 tenedor 9 9) (2 servilleta 9 18) (3 muneca 9 27) (4 melon 9 36) (5 espinaca 9 45)) ((carrusel:carrusel35.txthace falta de) (1 mante 0 1) (2 estante 1 2) (3 llave 1 3) (4 herramientas 1 4) (5 toalla 1 5) (1 azucar 2 2) (2 pistola 2 4) (3 fresa 2 6) (4 yogur 2 8) (5 silla 2 10) (1 frambuesa 3 3) (2 colchon 3 6) (3 rastrillo 3 9) (4 radiador 3 12) (5 mora 3 15) (1 albaricoque 4 4) (2 higo 4 8) (3 pinceles 4 12) (4 mantequilla 4 16) (5 libreta 4 20) (1 piña 5 5) (2 cocina 5 10) (3 centeno 5 15) (4 candado 5 20) (5 kiwi 5 25) (1 plato 6 6) (2 callejon 6 12) (3 pasta 6 18) (4 pasta 6 24) (5 carroza 6 30) (1 melon 7 7) (2 cuchara 7 14) (3 bicicleta 7 21) (4 mueble 7 28) (5 panuelo 7 35) (1 melon 8 8) (2 galleta 8 16) (3 cortina 8 24) (4 cartas 8 32) (5 globos 8 40) (1 cafetera 9 9) (2 patines 9 18) (3 plato 9 27) (4 pan 9 36) (5 arbol 9 45)) ((carrusel:carrusel36.txthace falta de) (1 llave 0 1) (2 horno 1 2) (3 taza 1 3) (4 cazuela 1 4) (5 alto 1 5) (1 mujer 2 2) (2 kiwi 2 4) (3 globos 2 6) (4 abrelatas 2 8) (5 gorro 2 10) (1 mesa 3 3) (2 tornillo 3 6) (3 mantequilla 3 9) (4 gorra 3 12) (5 plato 3 15) (1 aparato 4 4) (2 monedero 4 8) (3 tornillo 4 12) (4 coliflor 4 16) (5 pajaro 4 20) (1 faro 5 5) (2 pan 5 10) (3 foto 5 15) (4 apio 5 20) (5 aire 5 25) (1 zapato 6 6) (2 pared 6 12) (3 servilleta 6 18) (4 mujer 6 24) (5 maquina 6 30) (1 semilla 7 7) (2 acelga 7 14) (3 horno 7 21) (4 gancho 7 28) (5 botella 7 35) (1 albaricoque 8 8) (2 navaja 8 16) (3 marcapaginas 8 24) (4 cable 8 32) (5 esponja 8 40) (1 cable 9 9) (2 coliflor 9 18) (3 peluche 9 27) (4 cepo 9 36) (5 pimienton 9 45) (1 llave 0 19)) ((carrusel:carrusel37.txthace falta de) (1 cortina 0 1) (2 mantel 1 2) (3 acelga 1 3) (4 juego 1 4) (5 vaca 1 5) (1 sal 2 2) (2 manzana 2 4) (3 relieve 2 6) (4 servilleta 2 8) (5 suave 2 10) (1 fuente 3 3) (2 pajaro 3 6) (3 cebada 3 9) (4 mantel 3 12) (5 celular 3 15) (1 cuchillo 4 4) (2 botiquin 4 8) (3 planta 4 12) (4 caja 4 16) (5 caja 4 20) (1 rompecabezas 5 5) (2 esponja 5 10) (3 marco 5 15) (4 bajo 5 20) (5 crema 5 25) (1 zanahoria 6 6) (2 esponja 6 12) (3 arandano 6 18) (4 chocolate 6 24) (5 radiador 6 30) (1 tenedor 7 7) (2 maiz 7 14) (3 cinta 7 21) (4 manicura 7 28) (5 aspiradora 7 35) (1 ordenador 8 8) (2 callejon 8 16) (3 cuchara 8 24) (4 luz 8 32) (5 pintalabios 8 40) (1 cable 9 9) (2 gancho 9 18) (3 uva 9 27) (4 abrelatas 9 36) (5 lavadora 9 45) (5 cortina 0 55)) ((carrusel:carrusel38.txthace falta de) (1 sillon 0 1) (2 cuchillo 1 2) (3 cafetera 1 3) (4 pintura 1 4) (5 faro 1 5) (1 cuchara 2 2) (2 cafetera 2 4) (3 hojaldre 2 6) (4 hongo 2 8) (5 espinaca 2 10) (1 placard 3 3) (2 pepino 3 6) (3 juguete 3 9) (4 papaya 3 12) (5 platano 3 15) (1 frambuesa 4 4) (2 corbata 4 8) (3 vaso 4 12) (4 nina 4 16) (5 mantequilla 4 20) (1 sarten 5 5) (2 conejito 5 10) (3 galleta 5 15) (4 paracaidas 5 20) (5 chicle 5 25) (1 pantallas 6 6) (2 gorra 6 12) (3 galleta 6 18) (4 gancho 6 24) (5 naranja 6 30) (1 vaca 7 7) (2 arbol 7 14) (3 chicle 7 21) (4 manicura 7 28) (5 flamenco 7 35) (1 laptop 8 8) (2 yogur 8 16) (3 calabacin 8 24) (4 uva 8 32) (5 candelabro 8 40) (1 cereal 9 9) (2 arbol 9 18) (3 pestaña 9 27) (4 manicura 9 36) (5 globo 9 45)) ((carrusel:carrusel39.txthace falta de) (1 miel 0 1) (2 nino 1 2) (3 flor 1 3) (4 cafetera 1 4) (5 escalera 1 5) (1 mesita 2 2) (2 cafetera 2 4) (3 florero 2 6) (4 sal 2 8) (5 fuente 2 10) (1 apio 3 3) (2 alcancia 3 6) (3 mueble 3 9) (4 repollo 3 12) (5 calculadora 3 15) (1 albaricoque 4 4) (2 pan 4 8) (3 muneca 4 12) (4 helado 4 16) (5 grande 4 20) (1 hervidor 5 5) (2 tomate 5 10) (3 auriculares 5 15) (4 herramientas 5 20) (5 batata 5 25) (1 pan 6 6) (2 membrillo 6 12) (3 higo 6 18) (4 pluma 6 24) (5 higo 6 30) (1 pajaro 7 7) (2 secadora 7 14) (3 hojaldre 7 21) (4 dulce 7 28) (5 higo 7 35) (1 bateria 8 8) (2 globo 8 16) (3 crema 8 24) (4 membrillo 8 32) (5 horno 8 40) (1 sandia 9 9) (2 hombre 9 18) (3 audifonos 9 27) (4 chocolate 9 36) (5 semilla 9 45)) ((carrusel:carrusel40.txthace falta de) (1 mujer 0 1) (2 camiseta 1 2) (3 lenteja 1 3) (4 puerta 1 4) (5 frasco 1 5) (1 radiador 2 2) (2 cafetera 2 4) (3 calendario 2 6) (4 paraguas 2 8) (5 botiquin 2 10) (1 gancho 3 3) (2 plato 3 6) (3 portarretratos 3 9) (4 calabaza 3 12) (5 platano 3 15) (1 monedero 4 4) (2 brujula 4 8) (3 hombre 4 12) (4 rompecabezas 4 16) (5 dulce 4 20) (1 frasco 5 5) (2 medias 5 10) (3 cafetera 5 15) (4 caja 5 20) (5 botiquin 5 25) (1 taza 6 6) (2 haba 6 12) (3 helado 6 18) (4 placard 6 24) (5 radiador 6 30) (1 aceituna 7 7) (2 duro 7 14) (3 paracaidas 7 21) (4 espejo 7 28) (5 vino 7 35) (1 sandia 8 8) (2 melon 8 16) (3 cable 8 24) (4 pepino 8 32) (5 alto 8 40) (1 crema 9 9) (2 tornillo 9 18) (3 limon 9 27) (4 licuadora 9 36) (5 candado 9 45)))
+
+
+Suma de articulos de todos los carruseles 541751677
+
+
+Top 10% de carruseles:  ((carrusel13.txt 128996) (carrusel1.txt 151602) (carrusel21.txt 122281004) (carrusel4.txt 416745219))

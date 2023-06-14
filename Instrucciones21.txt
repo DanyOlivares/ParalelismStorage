@@ -1,0 +1,7 @@
+retirar-producto 8
+derechon
+izquierdon
+abajon
+agregar-producto 222222
+arriban
+final

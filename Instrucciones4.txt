@@ -1,0 +1,7 @@
+retirar-producto cortina 8767
+derechon
+izquierdon
+abajon
+agregar-producto cortina 1
+arriban
+final
